@@ -29,6 +29,7 @@ Reference material
 
 ### Machine Learning
 [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
+[Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 
 
 
