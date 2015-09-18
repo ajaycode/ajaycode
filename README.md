@@ -14,6 +14,7 @@ Reference material
 ### Online Textbooks
 * [Programming Languages, Tools,  Algorithms, Compilers, ML, Math](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) - GitHub
 * [Biology, Business, Chemistry, Classics, Computer Science, Earth Science, Economics, Education, Electrical Engineering, History, Mathematics, Physics, Political Science, Sociology and more...](http://www.openculture.com/free_textbooks)
+* [Statistics](https://www.openintro.org/stat/textbook.php?stat_book=reset)
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
