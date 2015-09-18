@@ -32,7 +32,8 @@ Reference material
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
-
+### Network Virtualization
+* [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
 
 
 
