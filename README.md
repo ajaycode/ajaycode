@@ -15,6 +15,8 @@ Reference material
 * [Programming Languages, Tools,  Algorithms, Compilers, ML, Math](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) - GitHub
 * [Biology, Business, Chemistry, Classics, Computer Science, Earth Science, Economics, Education, Electrical Engineering, History, Mathematics, Physics, Political Science, Sociology and more...](http://www.openculture.com/free_textbooks)
 * [Statistics](https://www.openintro.org/stat/textbook.php?stat_book=reset)
+* [Probability Theory](http://bayes.wustl.edu/etj/prob/book.pdf) : The Logic of Science
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf) Data Mining, Inference and Prediction
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
