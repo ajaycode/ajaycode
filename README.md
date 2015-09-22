@@ -38,5 +38,9 @@ Reference material
 ### Network Virtualization
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
 
+### Starting Up
+#### Security
+* [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
+
 
 
