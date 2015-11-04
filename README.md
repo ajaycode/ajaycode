@@ -23,7 +23,7 @@ Reference material
 * [STRATFOR](https://www.youtube.com/user/STRATFORvideo/videos)
 
 ### Python
-* [Dive in Machine Learning] with iPython and sci-kit(https://github.com/hangtwenty/dive-into-machine-learning)
+* [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
 * Language [Hackr.io](http://hackr.io/tutorials/python)[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), Decorators in 12 Easy Steps(http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * Django [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session)
