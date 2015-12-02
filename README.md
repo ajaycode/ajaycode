@@ -43,6 +43,9 @@ Reference material
 * 
 ### Compilers & Interpreters
 * [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
+* 
+### Algorithms ###
+* [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
 
 ### Starting Up
 #### Security
