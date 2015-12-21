@@ -40,6 +40,8 @@ Reference material
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 * [ML for developers](http://xyclade.github.io/MachineLearning/) - Mike de Waard
 * [ML Cheat Sheet](http://download.microsoft.com/download/A/6/1/A613E11E-8F9C-424A-B99D-65344785C288/microsoft-machine-learning-algorithm-cheat-sheet-v6.pdf)
+* [Deep Learning](http://goodfeli.github.io/dlbook/)Deep Learning Text from MIT - work in progress
+* [Machine Learning Tutorials](https://azure.microsoft.com/en-us/services/machine-learning/) in Azure
 
 
 ### Network Virtualization
@@ -63,6 +65,13 @@ Reference material
 #### Security
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
 * 
+
+###Future###
+* [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech
+* 
+
+###Investment###
+* [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
 
 
 
