@@ -1,26 +1,19 @@
-# interests
+# Interests
 Reference material
 
+Content: [Programming](#Programming)  [Learning](#Learning)
+
+##<a name="Programming">Programming##
 ### Source Control
 * [Git from the bottom up](http://jwiegley.github.io/git-from-the-bottom-up/)
 * [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Online Courses
-* [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
-* [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare
-
-
-
-### Online Textbooks
-* [Programming Languages, Tools,  Algorithms, Compilers, ML, Math](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) - GitHub
-* [Biology, Business, Chemistry, Classics, Computer Science, Earth Science, Economics, Education, Electrical Engineering, History, Mathematics, Physics, Political Science, Sociology and more...](http://www.openculture.com/free_textbooks)
-* [Statistics](https://www.openintro.org/stat/textbook.php?stat_book=reset)
-* [Probability Theory](http://bayes.wustl.edu/etj/prob/book.pdf) : The Logic of Science
-* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf) Data Mining, Inference and Prediction
-
-### Talks
-* [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
-* [STRATFOR](https://www.youtube.com/user/STRATFORvideo/videos)
+### Compilers & Interpreters
+* [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
+ 
+### Algorithms ###
+* [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
+* [Visualization of algorithms](http://visualgo.net/)
 
 ### Python
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
@@ -34,6 +27,23 @@ Reference material
 ### D3
 * [Scott Murray](http://alignedleft.com/tutorials/d3/)
 
+
+##<a name="Learning"></a>Learning##
+### Online Courses
+* [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
+
+
+### Online Textbooks
+* [Programming Languages, Tools,  Algorithms, Compilers, ML, Math](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) - GitHub
+* [Biology, Business, Chemistry, Classics, Computer Science, Earth Science, Economics, Education, Electrical Engineering, History, Mathematics, Physics, Political Science, Sociology and more...](http://www.openculture.com/free_textbooks)
+* [Statistics](https://www.openintro.org/stat/textbook.php?stat_book=reset)
+* [Probability Theory](http://bayes.wustl.edu/etj/prob/book.pdf) : The Logic of Science
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf) Data Mining, Inference and Prediction
+
+### Talks
+* [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
+* [STRATFOR](https://www.youtube.com/user/STRATFORvideo/videos)
+
 ### Machine Learning
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
@@ -43,32 +53,24 @@ Reference material
 * [Deep Learning](http://goodfeli.github.io/dlbook/)Deep Learning Text from MIT - work in progress
 * [Machine Learning Tutorials](https://azure.microsoft.com/en-us/services/machine-learning/) in Azure
 
-
 ### Network Virtualization
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
-* 
-### Compilers & Interpreters
-* [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
-* 
-### Algorithms ###
-* [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
-* [Visualization of algorithms](http://visualgo.net/)
 
 ### Mathematics ###
 * [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-* 
+* [Better Explained](http://betterexplained.com/) Refresher on Mathematics
+* [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare
+ 
 
+##Tools##
 ###Big Data###
 * [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
 
-### Starting Up
-#### Security
+### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
-* 
 
 ###Future###
-* [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech
-* 
+* [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech 
 
 ###Investment###
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
