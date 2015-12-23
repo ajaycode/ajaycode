@@ -1,7 +1,7 @@
 # Interests
 Reference material
 
-Content: [Programming](#Programming)  [Learning](#Learning)
+Content: [Programming](#Programming),  [Learning](#Learning)
 
 ##<a name="Programming">Programming##
 ### Source Control
@@ -69,8 +69,9 @@ Content: [Programming](#Programming)  [Learning](#Learning)
 ### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
 
-###Future###
-* [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech 
+###Strategy, Trends, ...###
+* [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech
+* [25iq](http://25iq.com) - Tren Griffin's blog on Markets, Tech etc. 
 
 ###Investment###
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
