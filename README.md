@@ -31,6 +31,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 ##<a name="Learning"></a>Learning##
 ### Online Courses
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
+* [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment) 
 
 
 ### Online Textbooks
@@ -52,6 +53,9 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [ML Cheat Sheet](http://download.microsoft.com/download/A/6/1/A613E11E-8F9C-424A-B99D-65344785C288/microsoft-machine-learning-algorithm-cheat-sheet-v6.pdf)
 * [Deep Learning](http://goodfeli.github.io/dlbook/)Deep Learning Text from MIT - work in progress
 * [Machine Learning Tutorials](https://azure.microsoft.com/en-us/services/machine-learning/) in Azure
+* [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)  Introductory course in supervised learning from Stanford.  Starts Jan 12, 2016.  Uses [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf) text, from the same authors.
+* [ML Data Set Repository](http://archive.ics.uci.edu/ml/) for UC Irvine
+* [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/) Slides on ML by Andrew Moore
 
 ### Network Virtualization
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
