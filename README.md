@@ -80,7 +80,8 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 ###Investment###
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
 
-
+###Business###
+* [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/) write-up by Matt Might.  Good advice for CS interns or recent majors
 
 
 
