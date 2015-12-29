@@ -82,6 +82,8 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 
 ###Business###
 * [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/) write-up by Matt Might.  Good advice for CS interns or recent majors
+* [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
+* [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 
 
 
