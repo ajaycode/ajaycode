@@ -10,6 +10,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 
 ### Compilers & Interpreters
 * [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
+* [Compiler Fundamentals](http://www.learn-computing-directory.org/languages-and-programming/compilers-fundamentals.html)
  
 ### Algorithms ###
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
@@ -23,6 +24,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
 * [List Comprehensions in Python](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
+* [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
 
 ### D3
 * [Scott Murray](http://alignedleft.com/tutorials/d3/)
@@ -56,6 +58,10 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)  Introductory course in supervised learning from Stanford.  Starts Jan 12, 2016.  Uses [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf) text, from the same authors.
 * [ML Data Set Repository](http://archive.ics.uci.edu/ml/) for UC Irvine
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/) Slides on ML by Andrew Moore
+* [ML in a week](https://blog.skcript.com/machine-learning-in-a-week-a0da25d59850#.5ivzdvok5) Blog post by Per Harald Borgen
+* [Will it Python](http://slendermeans.org/pages/will-it-python.html) Conversion of code from ["ML for Hackers"](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714) book into Python
+####Neural Networks####
+* [How I Learned To Code Neural Networks In 2015](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.renfysgw7) by Per Harald Borgen
 
 ### Network Virtualization
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
