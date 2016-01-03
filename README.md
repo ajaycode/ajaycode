@@ -25,6 +25,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [List Comprehensions in Python](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
 * [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
+* [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
 
 ### D3
 * [Scott Murray](http://alignedleft.com/tutorials/d3/)
@@ -42,6 +43,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [Statistics](https://www.openintro.org/stat/textbook.php?stat_book=reset)
 * [Probability Theory](http://bayes.wustl.edu/etj/prob/book.pdf) : The Logic of Science
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf) Data Mining, Inference and Prediction
+* [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) Practical Data Mining, Collective Intelligence and Recommendation Systems by Ron Zacharski
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
