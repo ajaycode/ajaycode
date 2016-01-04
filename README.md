@@ -26,6 +26,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
 * [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
 * [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
 
 ### D3
 * [Scott Murray](http://alignedleft.com/tutorials/d3/)
