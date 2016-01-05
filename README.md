@@ -27,9 +27,10 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
 * [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
+* [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 
 ### D3
-* [Scott Murray](http://alignedleft.com/tutorials/d3/)
+* [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
 
 
 ##<a name="Learning"></a>Learning##
@@ -65,6 +66,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [Will it Python](http://slendermeans.org/pages/will-it-python.html) Conversion of code from ["ML for Hackers"](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714) book into Python
 ####Neural Networks####
 * [How I Learned To Code Neural Networks In 2015](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.renfysgw7) by Per Harald Borgen
+* [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) Focuses on data extraction, cleaning and ML
 
 ### Network Virtualization
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
@@ -94,5 +96,6 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 
-
+###Life###
+* [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
 
