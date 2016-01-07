@@ -1,0 +1,86 @@
+"Notes"	"County"	"County Code"	Heat Wave Days Based on Daily Maximum Temperature	Average Heat Wave Days Based on Daily Maximum Temperature	Average Heat Wave Days Based on Daily Maximum Temperature Standard Deviation	Heat Wave Days Based on Daily Maximum Heat Index	Average Heat Wave Days Based on Daily Maximum Heat Index	Average Heat Wave Days Based on Daily Maximum Heat Index Standard Deviation	Heat Wave Days Based on Net Daily Heat Stress	Average Heat Wave Days Based on Net Daily Heat Stress	Average Heat Wave Days Based on Net Daily Heat Stress Standard Deviation	Population	Average Population	Average Population Standard Deviation
+	"Alameda County, CA"	"06001"	168	5.60	4.88	174	5.80	4.52	183	6.10	5.37	40431369	1347712.30	113875.38
+	"Alpine County, CA"	"06003"	191	6.37	5.16	199	6.63	5.29	0	0.00	0.00	35886	1196.20	45.96
+	"Amador County, CA"	"06005"	191	6.37	4.45	191	6.37	4.63	195	6.50	5.41	951982	31732.73	6064.86
+	"Butte County, CA"	"06007"	205	6.83	6.20	196	6.53	5.98	197	6.57	5.74	5742205	191406.83	22345.99
+	"Calaveras County, CA"	"06009"	194	6.47	4.36	193	6.43	4.92	191	6.37	5.53	1084868	36162.27	8070.15
+	"Colusa County, CA"	"06011"	197	6.57	5.48	192	6.40	5.61	186	6.20	5.28	529726	17657.53	2450.05
+	"Contra Costa County, CA"	"06013"	168	5.60	4.79	165	5.50	4.19	182	6.07	4.76	26151407	871713.57	119932.39
+	"Del Norte County, CA"	"06015"	184	6.13	6.60	185	6.17	5.24	0	0.00	0.00	755736	25191.20	3985.51
+	"El Dorado County, CA"	"06017"	206	6.87	5.86	182	6.07	4.29	194	6.47	5.02	4227014	140900.47	30028.86
+	"Fresno County, CA"	"06019"	208	6.93	4.47	196	6.53	5.48	201	6.70	5.22	22231133	741037.77	121669.96
+	"Glenn County, CA"	"06021"	196	6.53	5.67	199	6.63	5.82	202	6.73	5.61	766962	25565.40	1824.10
+	"Humboldt County, CA"	"06023"	187	6.23	5.27	190	6.33	4.83	47	1.57	2.56	3693217	123107.23	8060.45
+	"Imperial County, CA"	"06025"	190	6.33	4.78	189	6.30	4.61	199	6.63	5.04	3936334	131211.13	25180.55
+	"Inyo County, CA"	"06027"	206	6.87	4.72	204	6.80	4.53	209	6.97	4.47	548047	18268.23	223.40
+	"Kern County, CA"	"06029"	205	6.83	4.52	214	7.13	4.21	207	6.90	4.81	18684076	622802.53	123712.06
+	"Kings County, CA"	"06031"	202	6.73	5.18	198	6.60	5.17	201	6.70	5.56	3484271	116142.37	24707.33
+	"Lake County, CA"	"06033"	207	6.90	5.68	200	6.67	5.68	194	6.47	5.46	1643390	54779.67	7862.92
+	"Lassen County, CA"	"06035"	194	6.47	5.31	204	6.80	5.01	72	2.40	2.73	905884	30196.13	4338.60
+	"Los Angeles County, CA"	"06037"	196	6.53	4.33	198	6.60	3.70	200	6.67	4.30	272499544	9083318.13	651204.15
+	"Madera County, CA"	"06039"	207	6.90	4.83	188	6.27	5.49	197	6.57	5.28	3280227	109340.90	27172.66
+	"Marin County, CA"	"06041"	156	5.20	4.81	139	4.63	3.95	0	0.00	0.00	7124121	237470.70	9676.34
+	"Mariposa County, CA"	"06043"	204	6.80	4.49	199	6.63	4.87	189	6.30	5.13	470868	15695.60	2249.76
+	"Mendocino County, CA"	"06045"	190	6.33	5.80	199	6.63	5.39	156	5.20	4.67	2451860	81728.67	6179.44
+	"Merced County, CA"	"06047"	200	6.67	5.17	201	6.70	5.37	195	6.50	5.57	5964661	198822.03	35358.45
+	"Modoc County, CA"	"06049"	202	6.73	5.44	195	6.50	5.28	11	0.37	0.84	287007	9566.90	192.96
+	"Mono County, CA"	"06051"	195	6.50	4.88	109	3.63	3.12	6	0.20	0.60	343329	11444.30	1920.44
+	"Monterey County, CA"	"06053"	194	6.47	4.30	182	6.07	4.57	187	6.23	4.39	11124748	370824.93	34476.29
+	"Napa County, CA"	"06055"	189	6.30	4.96	188	6.27	5.11	188	6.27	5.43	3539144	117971.47	11681.17
+	"Nevada County, CA"	"06057"	200	6.67	5.87	153	5.10	4.32	193	6.43	5.35	2508752	83625.07	13226.13
+	"Orange County, CA"	"06059"	182	6.07	6.21	181	6.03	5.11	200	6.67	4.66	78018065	2600602.17	319536.24
+	"Placer County, CA"	"06061"	205	6.83	5.73	183	6.10	5.10	185	6.17	5.36	6675781	222526.03	73322.47
+	"Plumas County, CA"	"06063"	200	6.67	6.63	206	6.87	6.04	0	0.00	0.00	601105	20036.83	1041.53
+	"Riverside County, CA"	"06065"	193	6.43	4.38	191	6.37	4.87	195	6.50	5.18	42131648	1404388.27	456860.66
+	"Sacramento County, CA"	"06067"	191	6.37	4.51	190	6.33	4.91	188	6.27	5.48	34306852	1143561.73	188768.29
+	"San Benito County, CA"	"06069"	195	6.50	5.13	199	6.63	4.78	194	6.47	4.57	1301501	43383.37	10296.64
+	"San Bernardino County, CA"	"06071"	206	6.87	5.13	212	7.07	4.19	208	6.93	4.46	46606230	1553541.00	342935.85
+	"San Diego County, CA"	"06073"	183	6.10	5.22	182	6.07	4.78	196	6.53	4.72	78291788	2609726.27	342024.71
+	"San Francisco County, CA"	"06075"	216	7.20	13.59	0	0.00	0.00	0	0.00	0.00	22535585	751186.17	28673.63
+	"San Joaquin County, CA"	"06077"	193	6.43	4.24	194	6.47	4.98	190	6.33	5.72	15959285	531976.17	97796.78
+	"San Luis Obispo County, CA"	"06079"	179	5.97	4.02	191	6.37	4.56	194	6.47	4.09	6812246	227074.87	31735.82
+	"San Mateo County, CA"	"06081"	158	5.27	5.03	151	5.03	4.29	6	0.20	0.79	20056279	668542.63	37141.08
+	"Santa Barbara County, CA"	"06083"	193	6.43	4.13	193	6.43	3.72	208	6.93	3.92	11385516	379517.20	32276.48
+	"Santa Clara County, CA"	"06085"	187	6.23	4.96	182	6.07	4.48	185	6.17	4.55	47288158	1576271.93	127643.36
+	"Santa Cruz County, CA"	"06087"	174	5.80	4.47	176	5.87	4.39	58	1.93	1.67	7116629	237220.97	19373.16
+	"Shasta County, CA"	"06089"	204	6.80	6.44	200	6.67	5.09	213	7.10	5.55	4644060	154802.00	18988.25
+	"Sierra County, CA"	"06091"	199	6.63	6.15	201	6.70	5.93	7	0.23	0.72	101094	3369.80	108.39
+	"Siskiyou County, CA"	"06093"	191	6.37	6.25	197	6.57	5.41	31	1.03	1.72	1306745	43558.17	1397.96
+	"Solano County, CA"	"06095"	177	5.90	4.38	186	6.20	4.68	187	6.23	4.90	10651916	355063.87	54866.27
+	"Sonoma County, CA"	"06097"	176	5.87	4.64	176	5.87	4.74	133	4.43	4.31	12419470	413982.33	55493.42
+	"Stanislaus County, CA"	"06099"	200	6.67	4.71	192	6.40	5.07	191	6.37	5.38	12254377	408479.23	78210.38
+	"Sutter County, CA"	"06101"	195	6.50	5.26	189	6.30	5.37	186	6.20	5.52	2215980	73866.00	12990.71
+	"Tehama County, CA"	"06103"	211	7.03	6.46	205	6.83	5.66	211	7.03	5.57	1596225	53207.50	6906.26
+	"Trinity County, CA"	"06105"	206	6.87	6.51	203	6.77	5.75	126	4.20	3.83	394223	13140.77	394.13
+	"Tulare County, CA"	"06107"	209	6.97	3.70	181	6.03	5.99	203	6.77	5.39	10412958	347098.60	54796.09
+	"Tuolumne County, CA"	"06109"	197	6.57	4.59	190	6.33	4.70	193	6.43	5.29	1496260	49875.33	6872.09
+	"Ventura County, CA"	"06111"	179	5.97	5.02	176	5.87	4.23	186	6.20	4.18	21189755	706325.17	81090.92
+	"Yolo County, CA"	"06113"	194	6.47	4.75	191	6.37	5.12	184	6.13	5.33	4708654	156955.13	26876.81
+	"Yuba County, CA"	"06115"	204	6.80	5.50	187	6.23	5.08	188	6.27	5.54	1816397	60546.57	6114.07
+"---"
+"Dataset: Number of Heat Wave Days in May-September (1981-2010)"
+"Query Parameters:"
+"Title:"
+"States: California (06)"
+"Year: All, 1981 to 2010"
+"Group By: County"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/HeatWaveDays.html for more information."
+"---"
+"Query Date: Jan 6, 2016 11:01:07 PM"
+"---"
+"Suggested Citation: National Climate Assessment - Extreme Heat Events: Heat Wave Days in May - September for years 1981-2010 on"
+"CDC WONDER Online Database, released 2015. Accessed at http://wonder.cdc.gov/NCA-heatwavedays-historic.html on Jan 6, 2016"
+"11:01:07 PM"
+"---"
+Caveats:
+"1. About county-level population estimates: population figures for 1981-1989 are intercensal estimates of the July 1 resident"
+"population of the United States; population figures for 1990 are modified age-race-sex (MARS) April 1 census counts; population"
+"figures for 1991-1999 are from the 1990-1999 series of bridged-race intercensal estimates of the July 1 resident population;"
+"population figures for 2000 and 2010 are bridged-race April 1 census counts; and population figures for 2001-2009 are from the"
+"revised 2000-2009 series of bridged-race intercensal estimates of the July 1 resident population."
+"2. The number of heat wave days is computed at the county level, the summary totals show the number of heat wave days per county"
+"per year. When the geographic area spans more than one county, an extreme heat event is counted for each county where measurable"
+"observations that met the heat event definition occurred. Use caution when interpreting data representing aggregated counties."
