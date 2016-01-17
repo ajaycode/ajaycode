@@ -1,4 +1,4 @@
-# Interests
+﻿# Interests
 Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
@@ -37,7 +37,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ### D3
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
-* [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
+* [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) - [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
 
 
 ##<a name="Learning"></a>Learning##
