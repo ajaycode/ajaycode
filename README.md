@@ -1,7 +1,11 @@
 # Interests
 Reference material
 
-Content: [Programming](#Programming),  [Learning](#Learning)
+Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
+
+##<a name="Networking">Networking##
+###Software Defined Networking###
+* Intent Based Network Programming [NetKAT, Cornell](http://www.cs.cornell.edu/~kozen/papers/probnetkat.pdf) [Tierless Programming](https://cs.brown.edu/~sk/Publications/Papers/Published/nfsk-flowlog-tierless/paper.pdf) [Slick Control Plane - Jennifer Rexford](http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf) [SoftCell](https://www.cs.princeton.edu/~jrex/papers/softcell13.pdf) [StEERING](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6733615&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6718434%2F6733561%2F06733615.pdf%3Farnumber%3D6733615) [MeasuRouting](http://yuba.stanford.edu/~srini/publications.html) [Logic Programming: Princeton](https://www.cs.princeton.edu/~dpw/papers/xldi-2012.pdf) [FRESCO: Texas A & M](http://www.csl.sri.com/users/vinod/papers/fresco.pdf) [Kinetic](http://resonance.noise.gatech.edu/) [Network Intent Composition: Open Day Light](https://wiki.opendaylight.org/view/)
 
 ##<a name="Programming">Programming##
 ### Source Control
@@ -26,7 +30,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [List Comprehensions in Python](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
 * [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
-* [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
+* [Baby steps in Python â€“ Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) Also includes samples for seaborn, usage of powerpoint and excel files
@@ -55,6 +59,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [STRATFOR](https://www.youtube.com/user/STRATFORvideo/videos)
 
 ### Machine Learning
+* [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik)
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
