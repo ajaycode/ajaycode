@@ -17,6 +17,7 @@ Content: [Programming](#Programming),  [Learning](#Learning)
 * [Visualization of algorithms](http://visualgo.net/)
 
 ### Python
+* [Introduction to Machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p) by Quentin de Laroussilhe
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
 * Language [Hackr.io](http://hackr.io/tutorials/python)[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), Decorators in 12 Easy Steps(http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
