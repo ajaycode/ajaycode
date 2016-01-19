@@ -74,6 +74,14 @@ Edit the most recent commit
 
       git commit --amend
 
+Move a file/directory within the repository or rename
+
+      git mv <orig> <dest>
+
+Remove a file/directory from the repository
+
+      git rm <file_or_directory>
+
 master = default branch
 HEAD   = typically points to the last commit of the branch
 
@@ -144,9 +152,13 @@ Shows the stash
 Reapply the work to the current branch
 
       git stash pop
-??
+Diff between the tips of two branches (note the number of dots:2)
+
+      git diff <branch_name1>..<branch_name2>
+Diff between the two branches, from their common ancestor
 
       git diff <branch_name1>...<branch_name2>
+
 Merge <filename> into <branch_name1> ?
       git diff --name-status <branch_name1>...<branch_name2> M <filename>
  
