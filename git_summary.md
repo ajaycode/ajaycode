@@ -72,9 +72,20 @@ git push origin master
 Fetch from and merge/Receive modifications from server into local repository
    
       git pull origin master
-Checkout the last committed version of readme.txt
+Checkout the last committed version of readme.txt.  Also discard local (working directory) changes
 
       git checkout -- readme.txt
+Cancel staged changes before committing, ie., undo changes that were staged - git add was done, but commit wasn't.  
+```
+git reset HEAD readme.txt
+#`reset` command does not change the working directory. Working directory contains the changes made.  Use `checkout` to remove the unwanted changes
+git checkout readme.txt
+```
+Cancel a commit
+```
+git revert HEAD
+git hist #to view the log
+```
 
 Show parents of the commits
 
@@ -134,6 +145,10 @@ Show information about a tag
 List all tags
 
       git tag 
+Remove a tag
+```
+git tag -d <tag_name>
+```
 ??
    
       git rev-parse master~3
@@ -202,7 +217,8 @@ List all branches in the clone's repository
 
 ####References####
 
-[1] Learn Git in a month of lunches - Rick Umali 
+1. Learn Git in a month of lunches - Rick Umali 
+2. [Git How To](http://githowto.com/)
 
 
 
