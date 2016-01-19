@@ -24,9 +24,10 @@ Log with pagination (-p)
     git -p log --oneline
 
 Display commits performed by author "ajay"
+```
     git log --author="ajay"
     git log --pretty=oneline --author="ajay" #quotes are not required around the name, if it's a single word.
-
+```
 List the files, that are a part of the commit
 
     git log --stat
