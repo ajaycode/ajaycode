@@ -13,9 +13,19 @@ Displays all the commits made to the repository
     git log --oneline
     git log --oneline readme.txt
 
+What changes, since and until
+```
+git log --since="1 week ago" --until="yesterday"
+git whatchanged --since="1/1/2016"
+```
+
 Log with pagination (-p)
 
     git -p log --oneline
+
+Display commits performed by author "ajay"
+    git log --author="ajay"
+    git log --pretty=oneline --author="ajay" #quotes are not required around the name, if it's a single word.
 
 List the files, that are a part of the commit
 
@@ -49,17 +59,19 @@ Add file and commit in a single operation
 
 Displays the files, but won't add
 
-      git add --dry-run
+    git add --dry-run
 
 Commit parts of a file
  
-      git add -p
+    git add -p
 
 Update changes made on local repo onto the remote server
 ```
 git push origin master
 ```
-
+Fetch from and merge/Receive modifications from server into local repository
+   
+      git pull origin master
 Checkout the last committed version of readme.txt
 
       git checkout -- readme.txt
