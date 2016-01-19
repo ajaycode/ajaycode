@@ -28,6 +28,7 @@ Show configuration settings
 Modify a setting
 
     git config --global user.name "Your Name"
+    git config --gloabl user.email "me@mydomain.com"
 
 What files have changed
 
@@ -44,6 +45,7 @@ What is the change between staging area and the repository?
 Add file and commit in a single operation
 
       git commit -a -m "your comment"
+      git commit -am "your comment"
 
 Displays the files, but won't add
 
@@ -52,6 +54,11 @@ Displays the files, but won't add
 Commit parts of a file
  
       git add -p
+
+Update changes made on local repo onto the remote server
+```
+git push origin master
+```
 
 Checkout the last committed version of readme.txt
 
