@@ -66,6 +66,10 @@ Show parents of the commits
       git log --patch
       git log --patch-with-stat
 
+Show details on the last commit
+
+      git log -1
+
 Edit the most recent commit
 
       git commit --amend
@@ -109,8 +113,63 @@ List all tags
       git show master@{3}
       git show master^^^
 
+Checkout a branch
       
+      git checkout <branch_name>
+
+Delete a branch
+
+      git branch -d <branch_name>
+      
+Display commits across all branches
+
+      git log --graph --decorate --pretty=online --all --abbrev-commit
+
+Display all available branches
+
+      git branch
+      git branch -v    #-v displays the SHA1 id
+Create a new branch from an existing branch
+      
+      git checkout -b <new_branch_to_be_created> <existing branch>
+Display a record of all times, that you have created branches
+
+      git reflog
+Save uncommitted work in a branch
+  
+      git stash
+Shows the stash
+
+      git stash list
+Reapply the work to the current branch
+
+      git stash pop
+??
+
+      git diff <branch_name1>...<branch_name2>
+Merge <filename> into <branch_name1> ?
+      git diff --name-status <branch_name1>...<branch_name2> M <filename>
  
+Merged file conflicts
+<<<<HEAD    #Start of changes in HEAD
+   code 1
+=====       #Separator between conflicting changes
+   code 2
+>>>>bugfix  #End of bug fix changes
+
+Use git mergetool for merges, especially 3 way merges.  Use KDiff3 (Windows) or gvimdiff(Linux)
+
+Show the base commit between <branch_name1> and <branch_name2>
+     
+      git merge-base <branch_name1> <branch_name2>
+Show the differences between branch1 and branch2, relative to when they first differed
+
+      git diff <branch_name1>...<branch_name2>
+List all branches in the clone's repository
+   
+      git branch --all
+
+
 
 
 
