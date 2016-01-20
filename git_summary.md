@@ -14,10 +14,10 @@ Displays all the commits made to the repository
     git log --oneline readme.txt
 
 What changes, since and until
-```
-git log --since="1 week ago" --until="yesterday"
-git whatchanged --since="12/15/2016"
-```
+   
+    git diff --name-only "@{1 week ago}" "@{1 day ago}"
+    git whatchanged --since="12/15/2016"
+    git log --since="1 week ago" --until="yesterday"
 
 Log with pagination (-p)
 
@@ -228,6 +228,7 @@ List all branches in the clone's repository
 
 1. Learn Git in a month of lunches - Rick Umali 
 2. [Git How To](http://githowto.com/)
+3. [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
 
