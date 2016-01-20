@@ -16,7 +16,7 @@ Displays all the commits made to the repository
 What changes, since and until
 ```
 git log --since="1 week ago" --until="yesterday"
-git whatchanged --since="1/1/2016"
+git whatchanged --since="12/15/2016"
 ```
 
 Log with pagination (-p)
@@ -24,11 +24,14 @@ Log with pagination (-p)
     git -p log --oneline
 
 Display commits performed by author "ajay"
-```
+
     git log --author="ajay"
     git log --pretty=oneline --author="ajay" #quotes are not required around the name, if it's a single word.
-```
-List the files, that are a part of the commit
+
+Display the patch, associated with each commit
+
+    git log -p
+List the files, that are altered as part of the commit. Includes the relative number of lines added/deleted from each of the files.
 
     git log --stat
 
@@ -43,20 +46,25 @@ Modify a setting
 
 What files have changed
 
-     git status
+    git status
 
 What is the change, between working area and staging area?
 
-      git diff
+    git diff
 
 What is the change between staging area and the repository?
  
-      git diff --staged
+    git diff --staged
+
+List all files, that have changed, since your last commit:
+```
+git diff --name-only
+```
 
 Add file and commit in a single operation
 
-      git commit -a -m "your comment"
-      git commit -am "your comment"
+    git commit -a -m "your comment"
+    git commit -am "your comment"
 
 Displays the files, but won't add
 
@@ -72,16 +80,16 @@ git push origin master
 ```
 Fetch from and merge/Receive modifications from server into local repository
    
-      git pull origin master
+    git pull origin master
 Checkout the last committed version of readme.txt.  Also discard local (working directory) changes
 
-      git checkout -- readme.txt
+    git checkout -- readme.txt
 Cancel staged changes before committing, ie., undo changes that were staged - git add was done, but commit wasn't.  
-```
-git reset HEAD readme.txt
-#`reset` command does not change the working directory. Working directory contains the changes made.  Use `checkout` to remove the unwanted changes
-git checkout readme.txt
-```
+
+    git reset HEAD readme.txt
+    #`reset` command does not change the working directory. Working directory contains the changes made.  Use `checkout` to remove the unwanted changes
+    git checkout readme.txt
+
 Cancel a commit
 ```
 git revert HEAD
@@ -90,28 +98,28 @@ git hist #to view the log
 
 Show parents of the commits
 
-      git log --parents --abbrev-commit
+    git log --parents --abbrev-commit
 
 ??
       
-      git log --patch
-      git log --patch-with-stat
+    git log --patch
+    git log --patch-with-stat
 
 Show details on the last commit
 
-      git log -1
+    git log -1
 
 Edit the most recent commit
 
-      git commit --amend
+    git commit --amend
 
 Move a file/directory within the repository or rename
 
-      git mv <orig> <dest>
+    git mv <orig> <dest>
 
 Remove a file/directory from the repository
 
-      git rm <file_or_directory>
+    git rm <file_or_directory>
 
 master = default branch
 HEAD   = typically points to the last commit of the branch
@@ -125,23 +133,23 @@ Display the SHA1 id of the latest commit
 
 Revert to a specific version of your directory, i.e., HEAD moves to an older commit
  
-      git checkout <SHA1id>
+    git checkout <SHA1id>
 
 Get back to current state
  
-      git checkout master
+    git checkout master
 
 Tag a particular commit
 
-      git tag <tag_name> -m "comment" <SHA1_id>
+    git tag <tag_name> -m "comment" <SHA1_id>
 
 Checkout commit with a particular tag
 
-      git checkout <tag_name> 
+    git checkout <tag_name> 
 
 Show information about a tag
 
-      git show <tag_name>
+    git show <tag_name>
 
 List all tags
 
