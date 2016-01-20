@@ -1,16 +1,17 @@
-﻿# Interests
+# Interests
 Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
 
-##<a name="Networking">Networking##
+##<a name="Networking">Networking</a>##
 ###Software Defined Networking###
 * Intent Based Network Programming [NetKAT, Cornell](http://www.cs.cornell.edu/~kozen/papers/probnetkat.pdf) [Tierless Programming](https://cs.brown.edu/~sk/Publications/Papers/Published/nfsk-flowlog-tierless/paper.pdf) [Slick Control Plane - Jennifer Rexford](http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf) [SoftCell](https://www.cs.princeton.edu/~jrex/papers/softcell13.pdf) [StEERING](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6733615&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6718434%2F6733561%2F06733615.pdf%3Farnumber%3D6733615) [MeasuRouting](http://yuba.stanford.edu/~srini/publications.html) [Logic Programming: Princeton](https://www.cs.princeton.edu/~dpw/papers/xldi-2012.pdf) [FRESCO: Texas A & M](http://www.csl.sri.com/users/vinod/papers/fresco.pdf) [Kinetic](http://resonance.noise.gatech.edu/) [Network Intent Composition: Open Day Light](https://wiki.opendaylight.org/view/)
 
-##<a name="Programming">Programming##
+##<a name="Programming">Programming</a>##
 ### Source Control
 * [Git from the bottom up](http://jwiegley.github.io/git-from-the-bottom-up/)
 * [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [My Git Notes](https://github.com/ajaycode/interests/blob/master/git_summary.md)
 
 ### Compilers & Interpreters
 * [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
@@ -34,12 +35,12 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) Also includes samples for seaborn, usage of powerpoint and excel files
 
-### D3
+### D3###
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
 * [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) - [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
 
 
-##<a name="Learning"></a>Learning##
+##<a name="Learning">Learning</a>##
 ### Online Courses
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
 * [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment) 
