@@ -16,6 +16,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Compilers & Interpreters
 * [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
 * [Compiler Fundamentals](http://www.learn-computing-directory.org/languages-and-programming/compilers-fundamentals.html)
+* [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
  
 ### Algorithms ###
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
@@ -34,6 +35,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) Also includes samples for seaborn, usage of powerpoint and excel files
+* Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 
 ### D3###
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
@@ -43,7 +45,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ##<a name="Learning">Learning</a>##
 ### Online Courses
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
-* [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment) 
+* [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
+* [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) 
 
 
 ### Online Textbooks
