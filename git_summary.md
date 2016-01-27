@@ -1,4 +1,6 @@
-#Git Commands#
+#Git Commands# 
+----------
+
  
 File listing
 
@@ -13,11 +15,16 @@ Displays all the commits made to the repository
     git log --oneline
     git log --oneline readme.txt
 
-What changes, since and until
+What changed, since and until
    
     git diff --name-only "@{1 week ago}" "@{1 day ago}"
     git whatchanged --since="12/15/2016"
     git log --since="1 week ago" --until="yesterday"
+
+List the changes on the remote (or origin)
+
+    git fetch origin
+    git diff origin/master
 
 Log with pagination (-p)
 
@@ -126,10 +133,10 @@ HEAD   = typically points to the last commit of the branch
 
 Display the SHA1 id of the latest commit
  
-      git rev-parse HEAD 
-             or
-      git rev-parse master
-      Verify with git log --oneline
+    git rev-parse HEAD 
+           or
+    git rev-parse master
+    Verify with git log --oneline
 
 Revert to a specific version of your directory, i.e., HEAD moves to an older commit
  
@@ -153,64 +160,71 @@ Show information about a tag
 
 List all tags
 
-      git tag 
+    git tag 
 Remove a tag
-```
-git tag -d <tag_name>
-```
+
+    git tag -d <tag_name>
+
 ??
    
-      git rev-parse master~3
-      git show master@{3}
-      git show master^^^
+    git rev-parse master~3  
+    git show master@{3}
+    git show master^^^
+
+Create a new branch
+
+    git checkout -b <branch_name>
+
+Create a new branch from an existing branch
+      
+    git checkout -b <new_branch_to_be_created> <existing branch>
 
 Checkout a branch
       
-      git checkout <branch_name>
+    git checkout <branch_name>
 
 Delete a branch
 
-      git branch -d <branch_name>
+    git branch -d <branch_name>
       
 Display commits across all branches
 
-      git log --graph --decorate --pretty=online --all --abbrev-commit
+    git log --graph --decorate --pretty=online --all --abbrev-commit
 
 Display all available branches
 
-      git branch
-      git branch -v    #-v displays the SHA1 id
-Create a new branch from an existing branch
-      
-      git checkout -b <new_branch_to_be_created> <existing branch>
+    git branch
+    git branch -v    #-v displays the SHA1 id
+
 Display a record of all times, that you have created branches
 
-      git reflog
+    git reflog
 Save uncommitted work in a branch
   
-      git stash
+    git stash
 Shows the stash
 
-      git stash list
+    git stash list
 Reapply the work to the current branch
 
-      git stash pop
+    git stash pop
 Diff between the tips of two branches (note the number of dots:2)
 
-      git diff <branch_name1>..<branch_name2>
+    git diff <branch_name1>..<branch_name2>
 Diff between the two branches, from their common ancestor
 
-      git diff <branch_name1>...<branch_name2>
+    git diff <branch_name1>...<branch_name2>
 
 Merge <filename> into <branch_name1> ?
-      git diff --name-status <branch_name1>...<branch_name2> M <filename>
+    git diff --name-status <branch_name1>...<branch_name2> M <filename>
  
 Merged file conflicts
-<<<<HEAD    #Start of changes in HEAD
-   code 1
-=====       #Separator between conflicting changes
-   code 2
->>>>bugfix  #End of bug fix changes
+
+	<<<<HEAD    #Start of changes in HEAD
+    code 1
+	=====       #Separator between conflicting changes
+   	code 2
+	>>>>bugfix  #End of bug fix changes
 
 Use git mergetool for merges, especially 3 way merges.  Use KDiff3 (Windows) or gvimdiff(Linux)
 
@@ -229,10 +243,5 @@ List all branches in the clone's repository
 1. Learn Git in a month of lunches - Rick Umali 
 2. [Git How To](http://githowto.com/)
 3. [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-
-
-
-
-
 
  

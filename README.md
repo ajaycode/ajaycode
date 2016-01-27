@@ -13,6 +13,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [My Git Notes](https://github.com/ajaycode/interests/blob/master/git_summary.md)
 
+### Testing###
+* [Software Testing Wheel](https://dzone.com/articles/the-software-testing-wheel?utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=wd%202016-01-27)
+
 ### Compilers & Interpreters
 * [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
 * [Compiler Fundamentals](http://www.learn-computing-directory.org/languages-and-programming/compilers-fundamentals.html)
@@ -73,6 +76,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/) Slides on ML by Andrew Moore
 * [ML in a week](https://blog.skcript.com/machine-learning-in-a-week-a0da25d59850#.5ivzdvok5) Blog post by Per Harald Borgen
 * [Will it Python](http://slendermeans.org/pages/will-it-python.html) Conversion of code from ["ML for Hackers"](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714) book into Python
+* [Understanding Machine Learning - From Theory To Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Text by Shai Shalev-Shwartz and Shai Ben-David
+
 ####Neural Networks####
 * [How I Learned To Code Neural Networks In 2015](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.renfysgw7) by Per Harald Borgen
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) Focuses on data extraction, cleaning and ML
@@ -96,6 +101,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ###Strategy, Trends, ...###
 * [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech
 * [25iq](http://25iq.com) - Tren Griffin's blog on Markets, Tech etc. 
+* [Darren Rush](https://medium.com/@darrenrush)
 
 ###Investment###
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
