@@ -21,6 +21,10 @@ What changed, since and until
     git whatchanged --since="12/15/2016"
     git log --since="1 week ago" --until="yesterday"
 
+What changed in the last commit
+
+    git whatchanged -n 1
+
 List the changes on the remote (or origin)
 
     git fetch origin
@@ -237,6 +241,12 @@ Show the differences between branch1 and branch2, relative to when they first di
 List all branches in the clone's repository
    
       git branch --all
+      git branch -a
+
+List all remote branches
+
+	git branch -r
+
 
 ####References####
 
