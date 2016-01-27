@@ -187,7 +187,7 @@ Delete a branch
 
     git branch -d <branch_name>
       
-Display commits across all branches
+Display commits across all branches, in a tree format
 
     git log --graph --decorate --pretty=online --all --abbrev-commit
 
