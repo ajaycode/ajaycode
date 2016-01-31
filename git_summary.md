@@ -92,7 +92,7 @@ git push origin master
 Fetch from and merge/Receive modifications from server into local repository
    
     git pull origin master
-Checkout the last committed version of readme.txt.  Also discard local (working directory) changes
+Checkout the last committed version of readme.txt.  Also discard local (working directory) changes.  Use this, if you want to undo all local changes and get the version of the file, from the most recent commit.
 
     git checkout -- readme.txt
 Cancel staged changes before committing, ie., undo changes that were staged - git add was done, but commit wasn't.  
