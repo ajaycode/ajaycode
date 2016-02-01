@@ -202,7 +202,7 @@ Delete a branch
       
 Display commits across all branches, in a tree format
 
-    git log --graph --decorate --pretty=online --all --abbrev-commit
+    git log --graph --decorate --pretty=oneline --all --abbrev-commit
 
 Display all available branches
 
