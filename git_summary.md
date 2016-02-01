@@ -1,7 +1,7 @@
 #Git Commands# 
 ----------
 
- 
+###Logs###
 File listing
 
     git ls-files
@@ -46,6 +46,8 @@ List the files, that are altered as part of the commit. Includes the relative nu
 
     git log --stat
 
+###Git Configuration###
+
 Show configuration settings
 
     git config --list
@@ -53,9 +55,11 @@ Show configuration settings
 Modify a setting
 
     git config --global user.name "Your Name"
-    git config --gloabl user.email "me@mydomain.com"
+    git config --global user.email "me@mydomain.com"
 
-What files have changed
+
+###Changes###
+What files have changed?
 
     git status
 
@@ -68,14 +72,16 @@ What is the change between staging area and the repository?
     git diff --staged
 
 List all files, that have changed, since your last commit:
-```
-git diff --name-only
-```
+
+    git diff --name-only
+
 List changes between local and remote
 
-    git fetch 
-    git diff master origin/master #for master branch
+    git fetch #get the changes, but do not merge the files
+    git diff <local> <remote>
+    eg. git diff master origin/master #for master branch
 
+###Checkout and Commit###
 Add file and commit in a single operation
 
     git commit -a -m "your comment"
@@ -90,9 +96,9 @@ Commit parts of a file
     git add -p
 
 Update changes made on local repo onto the remote server
-```
-git push origin master
-```
+
+    git push origin master
+
 Fetch from and merge/Receive modifications from server into local repository
    
     git pull origin master
@@ -111,10 +117,10 @@ Cancel staged changes before committing, ie., undo changes that were staged - gi
     git checkout readme.txt
 
 Cancel a commit
-```
-git revert HEAD
-git hist #to view the log
-```
+
+    git revert HEAD
+    git hist #to view the log
+
 
 Show parents of the commits
 
@@ -158,6 +164,7 @@ Revert to a specific version of your directory, i.e., HEAD moves to an older com
 Get back to current state
  
     git checkout master
+###Tags###
 
 Tag a particular commit
 
@@ -183,6 +190,8 @@ Remove a tag
     git rev-parse master~3  
     git show master@{3}
     git show master^^^
+
+###Branch###
 
 Create a new branch
 
