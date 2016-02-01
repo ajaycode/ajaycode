@@ -77,6 +77,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [ML in a week](https://blog.skcript.com/machine-learning-in-a-week-a0da25d59850#.5ivzdvok5) Blog post by Per Harald Borgen
 * [Will it Python](http://slendermeans.org/pages/will-it-python.html) Conversion of code from ["ML for Hackers"](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714) book into Python
 * [Understanding Machine Learning - From Theory To Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Text by Shai Shalev-Shwartz and Shai Ben-David
+* [word2vec: A word is worth a thousand vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 
 ####Neural Networks####
 * [How I Learned To Code Neural Networks In 2015](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.renfysgw7) by Per Harald Borgen
