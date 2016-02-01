@@ -71,6 +71,10 @@ List all files, that have changed, since your last commit:
 ```
 git diff --name-only
 ```
+List changes between local and remote
+
+    git fetch 
+    git diff master origin/master #for master branch
 
 Add file and commit in a single operation
 
