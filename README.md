@@ -12,6 +12,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Git from the bottom up](http://jwiegley.github.io/git-from-the-bottom-up/)
 * [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [My Git Notes](https://github.com/ajaycode/interests/blob/master/git_summary.md)
+* [Learn enough Git to be dangerous](http://www.learnenough.com/git-tutorial#sec-branching_and_merging)
 
 ### Testing###
 * [Software Testing Wheel](https://dzone.com/articles/the-software-testing-wheel?utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=wd%202016-01-27)
@@ -78,6 +79,10 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Will it Python](http://slendermeans.org/pages/will-it-python.html) Conversion of code from ["ML for Hackers"](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714) book into Python
 * [Understanding Machine Learning - From Theory To Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Text by Shai Shalev-Shwartz and Shai Ben-David
 * [word2vec: A word is worth a thousand vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
+
+####TensorFlow###
+* [Tutorial for readers new to ML and TensorFlow](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html)
+* TensorFlow examples [Tutorials & examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples), [Udacity and other examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples), [Examples by Parag Mital](https://github.com/pkmital/tensorflow_tutorials)
 
 ####Neural Networks####
 * [How I Learned To Code Neural Networks In 2015](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.renfysgw7) by Per Harald Borgen
