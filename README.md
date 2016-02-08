@@ -26,7 +26,6 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Visualization of algorithms](http://visualgo.net/)
 
 ### Python
-* [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
 * Language [Hackr.io](http://hackr.io/tutorials/python)[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), Decorators in 12 Easy Steps(http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * Django [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session)
@@ -66,6 +65,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q) Per Harald Borgen writes up his ML bootstrap experience
 * [Introduction to Machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p) by Quentin de Laroussilhe
 * [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik)
+* [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
@@ -80,6 +80,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Will it Python](http://slendermeans.org/pages/will-it-python.html) Conversion of code from ["ML for Hackers"](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714) book into Python
 * [Understanding Machine Learning - From Theory To Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Text by Shai Shalev-Shwartz and Shai Ben-David
 * [word2vec: A word is worth a thousand vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
+* [Machine Learning @  Coursera]() by Andrew Ng.  [Unofficial Notes](http://www.holehouse.org/mlclass/), Python Implementation- [1](http://subokita.com/2014/03/03/python-code-for-machine-learning-class-offered-by-coursera/), [2](https://github.com/noammor/coursera-machinelearning-python)
+* [7 steps to mastering ML with python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2) - Collection of related links organized in the proper sequence to aid in ML learning.
 
 
 ####TensorFlow###
