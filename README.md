@@ -82,7 +82,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [word2vec: A word is worth a thousand vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 * [Machine Learning @  Coursera]() by Andrew Ng.  [Unofficial Notes](http://www.holehouse.org/mlclass/), Python Implementation- [1](http://subokita.com/2014/03/03/python-code-for-machine-learning-class-offered-by-coursera/), [2](https://github.com/noammor/coursera-machinelearning-python)
 * [7 steps to mastering ML with python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2) - Collection of related links organized in the proper sequence to aid in ML learning.
-
+* [Free Programming Books - ML](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#machine-learning)
 
 ####TensorFlow###
 * [Tutorial for readers new to ML and TensorFlow](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html)
@@ -99,6 +99,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [Better Explained](http://betterexplained.com/) Refresher on Mathematics
 * [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare
+* [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#mathematics) includes texts on Linear Algebra, Statistics using Python
  
 
 ##Tools##

@@ -57,6 +57,9 @@ Modify a setting
     git config --global user.name "Your Name"
     git config --global user.email "me@mydomain.com"
 
+Cache credentials (eg. avoid retyping passwords for 300 s/5 minutes)
+
+    git config credential.helper 'cache --timeout=300'
 
 ###Changes###
 What files have changed?
