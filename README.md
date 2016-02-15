@@ -25,6 +25,10 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
 * [Visualization of algorithms](http://visualgo.net/)
 
+###Languages & Frameworks###
+* [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
+* [Comparison of framework performance](https://www.techempower.com/benchmarks/) from TechEmpower
+
 ### Python
 * Language [Hackr.io](http://hackr.io/tutorials/python)[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), Decorators in 12 Easy Steps(http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
