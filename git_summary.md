@@ -240,7 +240,15 @@ Diff between the two branches, from their common ancestor
 
     git diff <branch_name1>...<branch_name2>
 
-Merge <filename> into <branch_name1> ?
+Dry run of a merge.  Git does not have a dry-run option.
+
+    #Do a merge with no commit and no fast-forward.
+    git merge --no-commit --no-ff <branch_name>
+    #if you have to undo the commit
+    git merge --abort
+
+Merge `<filename>` into `<branch_name1>` ?
+
     git diff --name-status <branch_name1>...<branch_name2> M <filename>
  
 Merged file conflicts
