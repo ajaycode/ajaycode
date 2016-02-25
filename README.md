@@ -109,6 +109,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ##Tools##
 ###Big Data###
 * [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
+* [Libpostal](https://mapzen.com/blog/inside-libpostal)- a fast, multilingual, international street address parser 
 
 ### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
@@ -126,6 +127,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 * [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
 * [SaaS Metrics 2.0](http://www.forentrepreneurs.com/saas-metrics-2/#Defining_a_Dashboard_for_a_SaaS_Company) – A Guide to Measuring and Improving what Matters 
+* [156 Startup Failure Post-Mortems](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
 
 ###Life###
 * [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
