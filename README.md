@@ -110,6 +110,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ###Big Data###
 * [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
 * [Libpostal](https://mapzen.com/blog/inside-libpostal)- a fast, multilingual, international street address parser 
+* [PROSE - Text Extraction & Transformation](https://microsoft.github.io/prose/documentation/extraction-text/intro/)
 
 ### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
