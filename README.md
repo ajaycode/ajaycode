@@ -20,6 +20,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Compilers & Interpreters
 * [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
 * [Compiler Fundamentals](http://www.learn-computing-directory.org/languages-and-programming/compilers-fundamentals.html)
+* Compilers [Marc Feeley - 300 lines C](https://news.ycombinator.com/item?id=8558822), [GitHub Resources](https://github.com/melling/ComputerLanguages/blob/master/compilers.org)
  
 ### Algorithms ###
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
@@ -32,7 +33,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Python
 * Language [Hackr.io](http://hackr.io/tutorials/python)[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), Decorators in 12 Easy Steps(http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
-* Django [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session)
+* Django [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
 * [List Comprehensions in Python](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
@@ -42,6 +43,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) Also includes samples for seaborn, usage of powerpoint and excel files
+* [10 Common Mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make?utm_source=Engineering+Blog+Subscribers&utm_campaign=51aba2b5ff-Blog_Post_Email_Top10PythonMistakes&utm_medium=email&utm_term=0_af8c2cde60-51aba2b5ff-109835873)
 
 ### D3###
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
