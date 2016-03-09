@@ -5,7 +5,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ##<a name="Networking">Networking</a>##
 ###Software Defined Networking###
-* Intent Based Network Programming [NetKAT, Cornell](http://www.cs.cornell.edu/~kozen/papers/probnetkat.pdf) [Tierless Programming](https://cs.brown.edu/~sk/Publications/Papers/Published/nfsk-flowlog-tierless/paper.pdf) [Slick Control Plane - Jennifer Rexford](http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf) [SoftCell](https://www.cs.princeton.edu/~jrex/papers/softcell13.pdf) [StEERING](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6733615&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6718434%2F6733561%2F06733615.pdf%3Farnumber%3D6733615) [MeasuRouting](http://yuba.stanford.edu/~srini/publications.html) [Logic Programming: Princeton](https://www.cs.princeton.edu/~dpw/papers/xldi-2012.pdf) [FRESCO: Texas A & M](http://www.csl.sri.com/users/vinod/papers/fresco.pdf) [Kinetic](http://resonance.noise.gatech.edu/) [Network Intent Composition: Open Day Light](https://wiki.opendaylight.org/view/)
+* Intent Based Network Programming [NetKAT, Cornell](http://www.cs.cornell.edu/~kozen/papers/probnetkat.pdf),[Tierless Programming](https://cs.brown.edu/~sk/Publications/Papers/Published/nfsk-flowlog-tierless/paper.pdf), [Slick Control Plane - Jennifer Rexford](http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf), [SoftCell](https://www.cs.princeton.edu/~jrex/papers/softcell13.pdf), [StEERING](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6733615&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6718434%2F6733561%2F06733615.pdf%3Farnumber%3D6733615), [MeasuRouting](http://yuba.stanford.edu/~srini/publications.html), [Logic Programming: Princeton](https://www.cs.princeton.edu/~dpw/papers/xldi-2012.pdf), [FRESCO: Texas A & M](http://www.csl.sri.com/users/vinod/papers/fresco.pdf), [Kinetic](http://resonance.noise.gatech.edu/), [Network Intent Composition: Open Day Light](https://wiki.opendaylight.org/view/)
 
 ##<a name="Programming">Programming</a>##
 ### Source Control
@@ -31,7 +31,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Comparison of framework performance](https://www.techempower.com/benchmarks/) from TechEmpower
 
 ### Python
-* Language [Hackr.io](http://hackr.io/tutorials/python)[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
+* Language [Hackr.io](http://hackr.io/tutorials/python),[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), [Decorators in 12 Easy Steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * Django [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
