@@ -36,6 +36,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
 * [List Comprehensions in Python](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
+* [Natural Language Processing with Python] (http://www.nltk.org/book/) - NLTK/Text Processing book
 * [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
 * [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
@@ -98,6 +99,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ####Neural Networks####
 * [How I Learned To Code Neural Networks In 2015](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.renfysgw7) by Per Harald Borgen
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) Focuses on data extraction, cleaning and ML
+* [Introduction to Deep Neural Networks](http://deeplearning4j.org/neuralnet-overview.html)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - Online Textbook, uses Python
 
 ### Network Virtualization
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
