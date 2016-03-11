@@ -112,6 +112,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Better Explained](http://betterexplained.com/) Refresher on Mathematics
 * [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#mathematics) includes texts on Linear Algebra, Statistics using Python
+* [Math without university](quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1) - Books, Courses, MOOCs, Course list
  
 
 ##Tools##
