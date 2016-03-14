@@ -21,6 +21,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Lets build a simple interpreter](http://ruslanspivak.com/lsbasi-part1/)
 * [Compiler Fundamentals](http://www.learn-computing-directory.org/languages-and-programming/compilers-fundamentals.html)
 * Compilers [Marc Feeley - 300 lines C](https://news.ycombinator.com/item?id=8558822), [GitHub Resources](https://github.com/melling/ComputerLanguages/blob/master/compilers.org)
+* [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
+* Compiler Construction Resources - [GitHub](https://github.com/melling/ComputerLanguages/blob/master/compilers.org), [Stack Overflow](http://stackoverflow.com/questions/1669/learning-to-write-a-compiler)
+
  
 ### Algorithms ###
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
@@ -44,6 +47,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) Also includes samples for seaborn, usage of powerpoint and excel files
 * [10 Common Mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make?utm_source=Engineering+Blog+Subscribers&utm_campaign=51aba2b5ff-Blog_Post_Email_Top10PythonMistakes&utm_medium=email&utm_term=0_af8c2cde60-51aba2b5ff-109835873)
+* Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+
 
 ### D3###
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
@@ -56,7 +61,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ##<a name="Learning">Learning</a>##
 ### Online Courses
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
-* [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment) 
+* [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
+* [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) 
 
 
 ### Online Textbooks
@@ -141,4 +147,3 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ###Life###
 * [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
-
