@@ -109,6 +109,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) Focuses on data extraction, cleaning and ML
 * [Introduction to Deep Neural Networks](http://deeplearning4j.org/neuralnet-overview.html)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - Online Textbook, uses Python
+* [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/) - Start here for learning Neural Networks, by Andrej Karpathy
+* [Deep Learning](http://www.deeplearningbook.org/) - Book from MIT Press, work in progress, covers Linear Algebra etc...
 
 ### Network Virtualization
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
