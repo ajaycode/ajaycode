@@ -82,7 +82,7 @@ List changes between local and remote
 
     git fetch #get the changes, but do not merge the files
     git diff <local> <remote>
-    eg. git diff master origin/master #for master branch
+     eg. git diff master origin/master #for master branch
 
 ###Checkout and Commit###
 Add file and commit in a single operation
