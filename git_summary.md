@@ -105,6 +105,14 @@ Update changes made on local repo onto the remote server
 Fetch from and merge/Receive modifications from server into local repository
    
     git pull origin master
+
+Merge changes from another branch (eg. 201603 into master)
+
+    git branch <the-base-branch> #change the local branch to master, if you aren't it already
+    git merge 201603
+    git push origin master
+
+
 Checkout the last committed version of readme.txt.  Also discard local (working directory) changes.  Use this, if you want to undo all local changes and get the version of the file, from the most recent commit.
 
     git checkout -- readme.txt
