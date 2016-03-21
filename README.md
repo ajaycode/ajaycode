@@ -131,6 +131,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
+* Web Server Security [Checklist](https://securitychecklist.org/), [SSL Server Test](https://www.ssllabs.com/ssltest/)
 
 ###Strategy, Trends, ...###
 * [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech
