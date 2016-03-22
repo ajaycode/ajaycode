@@ -96,7 +96,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [ML in a week](https://blog.skcript.com/machine-learning-in-a-week-a0da25d59850#.5ivzdvok5) Blog post by Per Harald Borgen
 * [Will it Python](http://slendermeans.org/pages/will-it-python.html) Conversion of code from ["ML for Hackers"](http://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714) book into Python
 * [Understanding Machine Learning - From Theory To Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Text by Shai Shalev-Shwartz and Shai Ben-David
-* [word2vec: A word is worth a thousand vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
+* [word2vec: A word is worth a thousand vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/) [Intro - code.google](https://code.google.com/archive/p/word2vec/)
 * [Machine Learning @  Coursera]() by Andrew Ng.  [Unofficial Notes](http://www.holehouse.org/mlclass/), Python Implementation- [1](http://subokita.com/2014/03/03/python-code-for-machine-learning-class-offered-by-coursera/), [2](https://github.com/noammor/coursera-machinelearning-python)
 * [7 steps to mastering ML with python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2) - Collection of related links organized in the proper sequence to aid in ML learning.
 * [Free Programming Books - ML](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#machine-learning)
