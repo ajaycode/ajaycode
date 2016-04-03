@@ -147,6 +147,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ###Investment###
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
+* [Indian Mutual Fund Recommendations](https://www.fundsindia.com/select-funds)
 * [Sensex Rolling Performance](https://docs.google.com/spreadsheets/d/1AL5IR_wDCGLHv2uv4rH7J5LrOm4GzaSWRi4YYs7A7ak/edit?usp=sharing) - from yours truly
 
 ###Business###
