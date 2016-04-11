@@ -23,7 +23,6 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Compilers [Marc Feeley - 300 lines C](https://news.ycombinator.com/item?id=8558822), [GitHub Resources](https://github.com/melling/ComputerLanguages/blob/master/compilers.org)
 * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
 * Compiler Construction Resources - [GitHub](https://github.com/melling/ComputerLanguages/blob/master/compilers.org), [Stack Overflow](http://stackoverflow.com/questions/1669/learning-to-write-a-compiler)
-
  
 ### Algorithms ###
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
@@ -50,7 +49,6 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md), [DuckDuckGo Cheatsheet](https://duckduckgo.com/?q=python+cheat+sheet&t=h&ia=cheatsheet&iax=1), [Quick Reference](http://www.dataschool.io/python-quick-reference/)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews)
 
-
 ### D3###
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
 * [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) - [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
@@ -58,9 +56,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ###Web Programming###
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
 
-
 ##<a name="Learning">Learning</a>##
-### Online Courses
+### Online Courses ###
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
 * [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
 * [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) 
@@ -89,7 +86,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 * [ML for developers](http://xyclade.github.io/MachineLearning/) - Mike de Waard
 * [ML Cheat Sheet](http://download.microsoft.com/download/A/6/1/A613E11E-8F9C-424A-B99D-65344785C288/microsoft-machine-learning-algorithm-cheat-sheet-v6.pdf)
-* [Deep Learning](http://goodfeli.github.io/dlbook/)Deep Learning Text from MIT - work in progress
+* [Deep Learning](http://goodfeli.github.io/dlbook/) Deep Learning Text from MIT - work in progress
 * [Machine Learning Tutorials](https://azure.microsoft.com/en-us/services/machine-learning/) in Azure
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)  Introductory course in supervised learning from Stanford.  Starts Jan 12, 2016.  Uses [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf) text, from the same authors.
 * [ML Data Set Repository](http://archive.ics.uci.edu/ml/) for UC Irvine
@@ -120,11 +117,14 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
 
 ### Mathematics ###
+* [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Cheat Sheets on Algebra, Trignonetry, Calculus, common derivates... - Hugely popular site
+* Math Videos [Patrick JMT - Limits, Derivatives, Integration](https://www.youtube.com/user/patrickJMT/) [Professor Leonard](https://www.youtube.com/user/professorleonard57)
 * [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [Better Explained](http://betterexplained.com/) Refresher on Mathematics
-* [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare
+* [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare, [2](https://www.math.hmc.edu/calculus/tutorials/)
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#mathematics) includes texts on Linear Algebra, Statistics using Python
 * [Math without university](quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1) - Books, Courses, MOOCs, Course list
+* Math Texts [1](http://faculty.atu.edu/mfinan/nnotes.html), 
  
 
 ##Tools##
