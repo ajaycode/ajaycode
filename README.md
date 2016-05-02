@@ -144,6 +144,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech
 * [25iq](http://25iq.com) - Tren Griffin's blog on Markets, Tech etc. 
 * [Darren Rush](https://medium.com/@darrenrush)
+* [Research News](https://www.researchnews.com/)
 
 ###Investment###
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India

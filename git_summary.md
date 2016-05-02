@@ -42,6 +42,11 @@ Display commits performed by author "ajay"
 Display the patch, associated with each commit
 
     git log -p
+
+Display the change log (commit id and comment)
+
+    git log --follow <file-name>
+
 List the files, that are altered as part of the commit. Includes the relative number of lines added/deleted from each of the files.
 
     git log --stat
