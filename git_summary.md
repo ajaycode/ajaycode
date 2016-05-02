@@ -46,6 +46,10 @@ List the files, that are altered as part of the commit. Includes the relative nu
 
     git log --stat
 
+Show the list of files that changed in a commit
+ 
+    git show <commit-id>
+
 ###Git Configuration###
 
 Show configuration settings
