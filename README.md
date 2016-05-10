@@ -129,6 +129,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
  
 
 ##Tools##
+### DevOps ###
+* [400 Free resources for DevOps and Sys Admins](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins?edition=166475&utm_source=Spotlight&utm_medium=email&utm_campaign=DevOps%202016-05-06)
+
 ###Big Data###
 * [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
 * [Libpostal](https://mapzen.com/blog/inside-libpostal)- a fast, multilingual, international street address parser 
