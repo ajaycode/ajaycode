@@ -1,4 +1,4 @@
-# Interests
+﻿# Interests
 Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
@@ -23,6 +23,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Compiler Fundamentals](http://www.learn-computing-directory.org/languages-and-programming/compilers-fundamentals.html)
 * Compilers [Marc Feeley - 300 lines C](https://news.ycombinator.com/item?id=8558822), [GitHub Resources](https://github.com/melling/ComputerLanguages/blob/master/compilers.org)
 * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
+* [Mini: Interpreter and language implemented in Python](https://github.com/keleshev/mini)
 * Compiler Construction Resources - [GitHub](https://github.com/melling/ComputerLanguages/blob/master/compilers.org), [Stack Overflow](http://stackoverflow.com/questions/1669/learning-to-write-a-compiler)
  
 ### Algorithms ###
@@ -82,6 +83,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik)
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
 * [ML: An in-depth non technical guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/?utm_source=medium&utm_medium=post&utm_content=chapterlink&utm_campaign=republish)
+* [ML Sabbatical](http://karlrosaen.com/ml/) - Karl Rosaen
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
