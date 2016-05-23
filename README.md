@@ -25,10 +25,12 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
 * [Mini: Interpreter and language implemented in Python](https://github.com/keleshev/mini)
 * Compiler Construction Resources - [GitHub](https://github.com/melling/ComputerLanguages/blob/master/compilers.org), [Stack Overflow](http://stackoverflow.com/questions/1669/learning-to-write-a-compiler)
+* [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/) - Mattias Appelgren
  
 ### Algorithms ###
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
 * [Visualization of algorithms](http://visualgo.net/)
+* [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
 
 ###Languages & Frameworks###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
@@ -54,6 +56,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### D3###
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
 * [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) - [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
+* [One Chart, Twelve Charting Libraries](http://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
 
 ###Web Programming###
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
