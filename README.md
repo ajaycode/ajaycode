@@ -154,6 +154,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [25iq](http://25iq.com) - Tren Griffin's blog on Markets, Tech etc. 
 * [Darren Rush](https://medium.com/@darrenrush)
 * [Research News](https://www.researchnews.com/)
+* [StraTechEry](https://stratechery.com/)
 
 ###Investment###
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
