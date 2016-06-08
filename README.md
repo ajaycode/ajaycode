@@ -107,6 +107,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [General Assembly's Data Science course](https://github.com/justmarkham/DAT8)
 * [Data School](http://www.dataschool.io/) - Blog and tutorial content, related to ML
 * [Free Programming Books - ML](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#machine-learning)
+* [Boosting Sales With Machine Learning](https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3#.kf5y0auhu)
 
 ####TensorFlow###
 * [Tutorial for readers new to ML and TensorFlow](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html)
