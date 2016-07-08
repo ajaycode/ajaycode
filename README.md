@@ -52,6 +52,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [10 Common Mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make?utm_source=Engineering+Blog+Subscribers&utm_campaign=51aba2b5ff-Blog_Post_Email_Top10PythonMistakes&utm_medium=email&utm_term=0_af8c2cde60-51aba2b5ff-109835873)
 * Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md), [DuckDuckGo Cheatsheet](https://duckduckgo.com/?q=python+cheat+sheet&t=h&ia=cheatsheet&iax=1), [Quick Reference](http://www.dataschool.io/python-quick-reference/)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews)
+* [Why is Python slow](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 
 ### D3###
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
