@@ -7,6 +7,11 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ###Software Defined Networking###
 * Intent Based Network Programming [NetKAT, Cornell](http://www.cs.cornell.edu/~kozen/papers/probnetkat.pdf),[Tierless Programming](https://cs.brown.edu/~sk/Publications/Papers/Published/nfsk-flowlog-tierless/paper.pdf), [Slick Control Plane - Jennifer Rexford](http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf), [SoftCell](https://www.cs.princeton.edu/~jrex/papers/softcell13.pdf), [StEERING](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6733615&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6718434%2F6733561%2F06733615.pdf%3Farnumber%3D6733615), [MeasuRouting](http://yuba.stanford.edu/~srini/publications.html), [Logic Programming: Princeton](https://www.cs.princeton.edu/~dpw/papers/xldi-2012.pdf), [FRESCO: Texas A & M](http://www.csl.sri.com/users/vinod/papers/fresco.pdf), [Kinetic](http://resonance.noise.gatech.edu/), [Network Intent Composition: Open Day Light](https://wiki.opendaylight.org/view/)
 
+###Internet Outages###
+* [The Outage Archives](https://puck.nether.net/pipermail/outages/)
+* [NANOG Mailing List](http://osdir.com/ml/North-American-Network-Operators-Group/)
+* [Routing Table Report](http://thyme.rand.apnic.net/) - BGP Routing Table Analysis
+
 ##<a name="Programming">Programming</a>##
 ### Source Control
 * [Git from the bottom up](http://jwiegley.github.io/git-from-the-bottom-up/)
@@ -110,6 +115,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Free Programming Books - ML](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#machine-learning)
 * [Boosting Sales With Machine Learning](https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3#.kf5y0auhu)
 * [Applying ML to InfoSec](http://conf.startup.ml/blog/infosec)
+* [Text: A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) - Hal Daume III, 2015 Edition
+* [Deep Learning Book](http://www.deeplearningbook.org/)
 
 ####TensorFlow###
 * [Tutorial for readers new to ML and TensorFlow](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html)
