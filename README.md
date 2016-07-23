@@ -148,6 +148,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### DevOps ###
 * [400 Free resources for DevOps and Sys Admins](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins?edition=166475&utm_source=Spotlight&utm_medium=email&utm_campaign=DevOps%202016-05-06)
 
+###Low Cost Hosting###
+* [SSDNodes](https://www.ssdnodes.com/startup-specials/?s=reddit) - 4GM RAM, 4 CPU cores for $4/month
+
 ###Big Data###
 * [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
 * [Libpostal](https://mapzen.com/blog/inside-libpostal)- a fast, multilingual, international street address parser 
@@ -156,6 +159,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
 * Web Server Security [Checklist](https://securitychecklist.org/), [SSL Server Test](https://www.ssllabs.com/ssltest/)
+* [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers) - [User Comments](https://news.ycombinator.com/item?id=12140477)
 
 ###Transactional Email###
 * [Free Transactional Email Service Providers](https://www.metachris.com/2016/03/free-transactional-email-services-the-best-alternatives-to-mandrill/)
@@ -166,6 +170,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Darren Rush](https://medium.com/@darrenrush)
 * [Research News](https://www.researchnews.com/)
 * [StraTechEry](https://stratechery.com/)
+* [Machine Learning Trends and the Future of Artificial Intelligence 2016](https://medium.com/emergent-future/machine-learning-trends-and-the-future-of-artificial-intelligence-2016-15c15cd6c129#.yidum6cn0)
 
 ###Investment###
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
