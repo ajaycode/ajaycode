@@ -44,20 +44,23 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Python
 * Language [Hackr.io](http://hackr.io/tutorials/python),[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), [Decorators in 12 Easy Steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
-* Django [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
 * [List Comprehensions in Python](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
 * [Natural Language Processing with Python] (http://www.nltk.org/book/) - NLTK/Text Processing book
 * [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
 * [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) Also includes samples for seaborn, usage of powerpoint and excel files
 * [10 Common Mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make?utm_source=Engineering+Blog+Subscribers&utm_campaign=51aba2b5ff-Blog_Post_Email_Top10PythonMistakes&utm_medium=email&utm_term=0_af8c2cde60-51aba2b5ff-109835873)
 * Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md), [DuckDuckGo Cheatsheet](https://duckduckgo.com/?q=python+cheat+sheet&t=h&ia=cheatsheet&iax=1), [Quick Reference](http://www.dataschool.io/python-quick-reference/)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews)
 * [Why is Python slow](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
+####Django 
+* [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
+* [Deploy Django on DO](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean#/.V5bhr254HiQ.hackernews)
+* [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131#.yo9bqr8c7) - [HN comments](https://news.ycombinator.com/item?id=5567239), [11 Killer Features I use in Every Django Project](https://medium.com/cs-math/2014-django-development-mistakes-in-2014-f48623f58b21#.y9gjrac6a) - talks about unit testing, updates to admin model, RESTful interfaces, ...
 
 ### D3###
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
