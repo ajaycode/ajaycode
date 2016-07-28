@@ -44,7 +44,6 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Python ###
 * Language [Hackr.io](http://hackr.io/tutorials/python),[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), [Decorators in 12 Easy Steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
-* [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
 * [List Comprehensions in Python](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [10 Common Mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make?utm_source=Engineering+Blog+Subscribers&utm_campaign=51aba2b5ff-Blog_Post_Email_Top10PythonMistakes&utm_medium=email&utm_term=0_af8c2cde60-51aba2b5ff-109835873)
 * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
@@ -63,6 +62,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ####Scientific Computing with Python ####
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
+* [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
 * [Introduction to Scientific Python](https://web.stanford.edu/~arbenson/cme193.html) - Stanford Course - Intro to Python, files, NumPy, Scipy, Pyplot
 
