@@ -55,10 +55,12 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md), [DuckDuckGo Cheatsheet](https://duckduckgo.com/?q=python+cheat+sheet&t=h&ia=cheatsheet&iax=1), [Quick Reference](http://www.dataschool.io/python-quick-reference/)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews)
 * [Why is Python slow](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
+
 ####Django ####
 * [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
 * [Deploy Django on DO](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean#/.V5bhr254HiQ.hackernews)
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131#.yo9bqr8c7) - [HN comments](https://news.ycombinator.com/item?id=5567239), [11 Killer Features I use in Every Django Project](https://medium.com/cs-math/2014-django-development-mistakes-in-2014-f48623f58b21#.y9gjrac6a) - talks about unit testing, updates to admin model, RESTful interfaces, ...
+
 ####Scientific Computing with Python ####
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
