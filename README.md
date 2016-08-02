@@ -54,6 +54,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md), [DuckDuckGo Cheatsheet](https://duckduckgo.com/?q=python+cheat+sheet&t=h&ia=cheatsheet&iax=1), [Quick Reference](http://www.dataschool.io/python-quick-reference/)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews)
 * [Why is Python slow](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
+* [Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
 
 ####Django ####
 * [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
