@@ -73,6 +73,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) - [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
 * [One Chart, Twelve Charting Libraries](http://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
 * [Free Data Visualization Books](http://newprediction.com/free-data-visualization-books/)
+* [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript)
 
 ###Web Programming###
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
