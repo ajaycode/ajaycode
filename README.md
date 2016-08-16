@@ -51,6 +51,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
 * [Natural Language Processing with Python] (http://www.nltk.org/book/) - NLTK/Text Processing book
+* [Statistical Natural Language Processing in Python](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) - Peter Norvig's "How To Do Things With Words. And Counters." 
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) Also includes samples for seaborn, usage of powerpoint and excel files
 * Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md), [DuckDuckGo Cheatsheet](https://duckduckgo.com/?q=python+cheat+sheet&t=h&ia=cheatsheet&iax=1), [Quick Reference](http://www.dataschool.io/python-quick-reference/)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews)
