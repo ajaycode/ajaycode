@@ -37,6 +37,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Visualization of algorithms](http://visualgo.net/)
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
 * Quora: Algorithms and Data Structures Learning Resources - [1](https://www.quora.com/What-are-the-best-sites-available-on-the-internet-to-learn-dynamic-programming-algorithms-and-data-structures), [2](https://www.quora.com/Which-are-the-top-blogs-to-follow-to-explore-about-algorithms-and-data-structures)
+* [DsAlgo](http://www.dsalgo.com/2013/02/index.php.html), [daqwest](http://www.daqwest.com/)
 
 ###Languages & Frameworks ###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
