@@ -1,4 +1,4 @@
-# Interests
+﻿# Interests
 Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
@@ -36,6 +36,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
 * [Visualization of algorithms](http://visualgo.net/)
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
+* Quora: Algorithms and Data Structures Learning Resources - [1](https://www.quora.com/What-are-the-best-sites-available-on-the-internet-to-learn-dynamic-programming-algorithms-and-data-structures), [2](https://www.quora.com/Which-are-the-top-blogs-to-follow-to-explore-about-algorithms-and-data-structures)
 
 ###Languages & Frameworks ###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
