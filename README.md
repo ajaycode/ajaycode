@@ -1,4 +1,4 @@
-﻿# Interests
+# Interests
 Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
@@ -109,6 +109,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [ML: An in-depth non technical guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/?utm_source=medium&utm_medium=post&utm_content=chapterlink&utm_campaign=republish)
 * [ML Sabbatical](http://karlrosaen.com/ml/) - Karl Rosaen
 * [How to become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
+* [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
