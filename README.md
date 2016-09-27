@@ -74,6 +74,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 
 ### D3###
+* [Data Visualization and D3.js](https://classroom.udacity.com/courses/ud507/lessons/3068848585/concepts/30952086940923)
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
 * [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) - [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
 * [One Chart, Twelve Charting Libraries](http://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
