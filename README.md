@@ -1,4 +1,4 @@
-# Interests
+﻿# Interests
 Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
@@ -64,6 +64,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
 * [Deploy Django on DO](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean#/.V5bhr254HiQ.hackernews)
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131#.yo9bqr8c7) - [HN comments](https://news.ycombinator.com/item?id=5567239), [11 Killer Features I use in Every Django Project](https://medium.com/cs-math/2014-django-development-mistakes-in-2014-f48623f58b21#.y9gjrac6a) - talks about unit testing, updates to admin model, RESTful interfaces, ...
+* [Extend Django's built-in User model](https://thinkster.io/django-angularjs-tutorial#extending-django-s-built-in-user-model)
 
 ####Scientific Computing with Python ####
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
@@ -102,7 +103,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [STRATFOR](https://www.youtube.com/user/STRATFORvideo/videos)
 
 ### Machine Learning
-* [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q) Per Harald Borgen writes up his ML bootstrap experience
+* Machine Learning in a [Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q), [a year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d4wh3911s) Per Harald Borgen writes up his ML bootstrap experience
 * [Introduction to Machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p) by Quentin de Laroussilhe
 * [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik)
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
@@ -133,6 +134,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Applying ML to InfoSec](http://conf.startup.ml/blog/infosec)
 * [Text: A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) - Hal Daume III, 2015 Edition
 * [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Mathematics of Machine Learning](https://www.linkedin.com/pulse/mathematics-machine-learning-trishul-sharma) - List of Math topics, required for ML.
 
 ####TensorFlow###
 * [Tutorial for readers new to ML and TensorFlow](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html)
@@ -192,6 +194,10 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
 * [Indian Mutual Fund Recommendations](https://www.fundsindia.com/select-funds)
 * [Sensex Rolling Performance](https://docs.google.com/spreadsheets/d/1AL5IR_wDCGLHv2uv4rH7J5LrOm4GzaSWRi4YYs7A7ak/edit?usp=sharing) - from yours truly
+* [Investing Returns on the S&P 500](https://github.com/zonination/investing) - Charts with returns, chances of losses 
+* [Investment Returns in Retirement - Simulator](http://www.cfiresim.com/)
+* [Is it time to buy?](https://saffell.wordpress.com/) - Is timing the market good for investments over a 10 year horizon? For a 20 year horizon?
+* [Stock Market Data Analysis with Python](http://blog.yhat.com/posts/stock-data-python.html)
 
 ###Business###
 * [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/) write-up by Matt Might.  Good advice for CS interns or recent majors
