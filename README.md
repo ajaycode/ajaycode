@@ -1,4 +1,4 @@
-# Interests
+﻿# Interests
 Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
@@ -104,6 +104,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
 * [ML: An in-depth non technical guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/?utm_source=medium&utm_medium=post&utm_content=chapterlink&utm_campaign=republish)
 * [ML Sabbatical](http://karlrosaen.com/ml/) - Karl Rosaen
+* [Lessons learned while studying Machine Learning](http://mytechbooks.blogspot.in/2016/09/lessons-learned-while-studying-machine.html), [Programmers Can Get Into Machine Learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/)
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
