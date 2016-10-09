@@ -138,7 +138,11 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Mathematics of Machine Learning](https://www.linkedin.com/pulse/mathematics-machine-learning-trishul-sharma) - List of Math topics, required for ML.
 
-####TensorFlow###
+####Artificial Intelligence####
+* [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/cs221/)
+* [MIT: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+
+####TensorFlow####
 * [Tutorial for readers new to ML and TensorFlow](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html)
 * TensorFlow examples [Tutorials & examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples), [Udacity and other examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples), [Examples by Parag Mital](https://github.com/pkmital/tensorflow_tutorials)
 
