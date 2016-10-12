@@ -137,6 +137,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Text: A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) - Hal Daume III, 2015 Edition
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Mathematics of Machine Learning](https://www.linkedin.com/pulse/mathematics-machine-learning-trishul-sharma) - List of Math topics, required for ML.
+* Machine Learning Top 10 Articles for the Past Month - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.rc6ukipj8)
 
 ####Artificial Intelligence####
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/cs221/)
