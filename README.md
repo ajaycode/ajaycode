@@ -80,6 +80,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [One Chart, Twelve Charting Libraries](http://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
 * [Free Data Visualization Books](http://newprediction.com/free-data-visualization-books/)
 * [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript)
+* [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
 
 ###Web Programming###
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
@@ -89,6 +90,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
 * [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
 * [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) 
+* [Programming books you might want to consider reading](http://danluu.com/programming-books/)
+* [MetAcademy](https://metacademy.org/browse) - Data Structures & Algorithms, Linear Algebra, Bayes, Set Theory, Probabily, AI, Multivariate Calculus, ...
 
 
 ### Online Textbooks
@@ -98,6 +101,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Probability Theory](http://bayes.wustl.edu/etj/prob/book.pdf) : The Logic of Science
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf) Data Mining, Inference and Prediction
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) Practical Data Mining, Collective Intelligence and Recommendation Systems by Ron Zacharski
+* [CNX Text Books](http://cnx.org/) - [Algebra & Trigonometry](http://cnx.org/contents/E6wQevFf@5.245:nU8Qkzwo@4/Introduction-to-Prerequisites), [Introductory Statistics](http://cnx.org/contents/MBiUQmmY@18.12:2T34_25K@11/Introduction), Pre Algebra, College Algebra, Pre calculus, Calculus, FFT, Physics, Economics, ...
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
@@ -113,6 +117,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Lessons learned while studying Machine Learning](http://mytechbooks.blogspot.in/2016/09/lessons-learned-while-studying-machine.html), [Programmers Can Get Into Machine Learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/)
 * [How to become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+* [How to learn Machine Learning](https://medium.com/machine-intelligence-report/how-to-learn-machine-learning-6fa1c66bf039#.m5ke8j82i)
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
