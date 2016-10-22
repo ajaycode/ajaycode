@@ -38,6 +38,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
 * Quora: Algorithms and Data Structures Learning Resources - [1](https://www.quora.com/What-are-the-best-sites-available-on-the-internet-to-learn-dynamic-programming-algorithms-and-data-structures), [2](https://www.quora.com/Which-are-the-top-blogs-to-follow-to-explore-about-algorithms-and-data-structures)
 * [DsAlgo](http://www.dsalgo.com/2013/02/index.php.html), [daqwest](http://www.daqwest.com/)
+* Big O Notations [Stack Overflow](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation), [Big O Cheat Sheet](http://www.bigocheatsheet.com/)
+* Courses on Algorithms - [Videos](http://aduni.org/courses/algorithms/index.php?view=cw) - Course by Shai Simonsom, with videos, [MIT OCW Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/), [Udacity](https://classroom.udacity.com/courses/cs215/lessons/48747095/concepts/487024270923#)
+
 
 ###Languages & Frameworks ###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
