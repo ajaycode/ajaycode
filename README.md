@@ -85,6 +85,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Free Data Visualization Books](http://newprediction.com/free-data-visualization-books/)
 * [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript)
 * [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
+* [Bringing D3.JS to Jupyter Notebook with Py-D3 ](http://www.residentmar.io/2016/09/12/py-d3.html)
 
 ###Web Programming###
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
@@ -189,6 +190,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
 * [Libpostal](https://mapzen.com/blog/inside-libpostal)- a fast, multilingual, international street address parser 
 * [PROSE - Text Extraction & Transformation](https://microsoft.github.io/prose/documentation/extraction-text/intro/)
+
+###Statistics###
+* [YouTube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 
 ### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
