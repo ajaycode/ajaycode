@@ -41,6 +41,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Big O Notations [Stack Overflow](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation), [Big O Cheat Sheet](http://www.bigocheatsheet.com/)
 * Courses on Algorithms - [Videos](http://aduni.org/courses/algorithms/index.php?view=cw) - Course by Shai Simonsom, with videos, [MIT OCW Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/), [Udacity](https://classroom.udacity.com/courses/cs215/lessons/48747095/concepts/487024270923#)
 * Data Structures - [Yale CPSC 223](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Links to above books on DS and Algorithms on GitHub](https://github.com/haseebr/competitive-programming/tree/master/Materials)
 
 
 ###Languages & Frameworks ###
@@ -107,6 +108,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf) Data Mining, Inference and Prediction
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) Practical Data Mining, Collective Intelligence and Recommendation Systems by Ron Zacharski
 * [CNX Text Books](http://cnx.org/) - [Algebra & Trigonometry](http://cnx.org/contents/E6wQevFf@5.245:nU8Qkzwo@4/Introduction-to-Prerequisites), [Introductory Statistics](http://cnx.org/contents/MBiUQmmY@18.12:2T34_25K@11/Introduction), Pre Algebra, College Algebra, Pre calculus, Calculus, FFT, Physics, Economics, ...
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Book series on JavaScript
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
@@ -148,6 +150,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Mathematics of Machine Learning](https://www.linkedin.com/pulse/mathematics-machine-learning-trishul-sharma) - List of Math topics, required for ML.
 * Machine Learning Top 10 Articles for the Past Month - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.rc6ukipj8)
+* [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - [Comments/Links to other resources](https://news.ycombinator.com/item?id=12898718)
 
 ####Artificial Intelligence####
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/cs221/)
@@ -170,13 +173,14 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ### Mathematics ###
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Cheat Sheets on Algebra, Trignonetry, Calculus, common derivates... - Hugely popular site
-* Math Videos [Patrick JMT - Limits, Derivatives, Integration](https://www.youtube.com/user/patrickJMT/) [Professor Leonard](https://www.youtube.com/user/professorleonard57)
+* Math Videos [Patrick JMT - Limits, Derivatives, Integration](https://www.youtube.com/user/patrickJMT/) [Just Match Tutorials](http://patrickjmt.com/), [Professor Leonard](https://www.youtube.com/user/professorleonard57)
 * [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [Better Explained](http://betterexplained.com/) Refresher on Mathematics
 * [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare, [2](https://www.math.hmc.edu/calculus/tutorials/)
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#mathematics) includes texts on Linear Algebra, Statistics using Python
 * [Math without university](quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1) - Books, Courses, MOOCs, Course list
 * Math Texts [1](http://faculty.atu.edu/mfinan/nnotes.html), 
+* [The Mathematics of Machine Learning](https://www.r-bloggers.com/the-mathematics-of-machine-learning/)
  
 
 ##Tools##
