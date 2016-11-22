@@ -95,7 +95,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Online Courses ###
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
 * [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
-* [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) 
+* [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) [Video Lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#data-structures-and-algorithms)
 * [Programming books you might want to consider reading](http://danluu.com/programming-books/)
 * [MetAcademy](https://metacademy.org/browse) - Data Structures & Algorithms, Linear Algebra, Bayes, Set Theory, Probabily, AI, Multivariate Calculus, ...
 
