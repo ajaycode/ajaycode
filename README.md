@@ -64,6 +64,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews)
 * [Why is Python slow](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 * [Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
+* [Understanding logging in Python](http://mussol.org/2016/12/15/understanding-logging-in-python/)
 
 ####Django ####
 * [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
@@ -119,7 +120,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Introduction to Machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p) by Quentin de Laroussilhe
 * [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik)
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
-* [ML: An in-depth non technical guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/?utm_source=medium&utm_medium=post&utm_content=chapterlink&utm_campaign=republish)
+* [ML: An in-depth non technical guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/?utm_source=medium&utm_medium=post&utm_content=chapterlink&utm_campaign=republish), [Honest Guide to ML](https://medium.com/axiomzenteam/an-honest-guide-to-machine-learning-2f6d7a6df60e#.ndhjtwwno) - From Axiom Zen Team
 * [ML Sabbatical](http://karlrosaen.com/ml/) - Karl Rosaen
 * [Lessons learned while studying Machine Learning](http://mytechbooks.blogspot.in/2016/09/lessons-learned-while-studying-machine.html), [Programmers Can Get Into Machine Learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/)
 * [How to become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
@@ -151,6 +152,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Mathematics of Machine Learning](https://www.linkedin.com/pulse/mathematics-machine-learning-trishul-sharma) - List of Math topics, required for ML.
 * Machine Learning Top 10 Articles for the Past Month - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.rc6ukipj8)
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - [Comments/Links to other resources](https://news.ycombinator.com/item?id=12898718)
+
 
 ####Artificial Intelligence####
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/cs221/)
