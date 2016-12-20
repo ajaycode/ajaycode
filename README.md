@@ -152,6 +152,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Mathematics of Machine Learning](https://www.linkedin.com/pulse/mathematics-machine-learning-trishul-sharma) - List of Math topics, required for ML.
 * Machine Learning Top 10 Articles for the Past Month - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.rc6ukipj8)
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - [Comments/Links to other resources](https://news.ycombinator.com/item?id=12898718)
+* Classifiers [Reddit classifier](http://ioloop.io/blog/hoverpy-scikitlearn/), [Amazon Reviews](https://bigishdata.com/2016/12/05/classifying-amazon-reviews-with-scikit-learn-more-data-is-better-turns-out/)
 
 
 ####Artificial Intelligence####
