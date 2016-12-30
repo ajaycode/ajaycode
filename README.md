@@ -42,6 +42,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Courses on Algorithms - [Videos](http://aduni.org/courses/algorithms/index.php?view=cw) - Course by Shai Simonsom, with videos, [MIT OCW Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/), [Udacity](https://classroom.udacity.com/courses/cs215/lessons/48747095/concepts/487024270923#)
 * Data Structures - [Yale CPSC 223](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Links to above books on DS and Algorithms on GitHub](https://github.com/haseebr/competitive-programming/tree/master/Materials)
+* [Google Hiring](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.ho8jeaxzn) [GitHub Resources](https://github.com/jwasham/google-interview-university)
 
 
 ###Languages & Frameworks ###
@@ -116,7 +117,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [STRATFOR](https://www.youtube.com/user/STRATFORvideo/videos)
 
 ### Machine Learning
-* Machine Learning in a [Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q), [a year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d4wh3911s) Per Harald Borgen writes up his ML bootstrap experience
+* Machine Learning in a [Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q), [a year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d4wh3911s) Per Harald Borgen writes up his ML bootstrap experience, [Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [Introduction to Machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p) by Quentin de Laroussilhe
 * [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik)
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
@@ -148,7 +149,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Boosting Sales With Machine Learning](https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3#.kf5y0auhu)
 * [Applying ML to InfoSec](http://conf.startup.ml/blog/infosec)
 * [Text: A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) - Hal Daume III, 2015 Edition
-* [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Deep Learning Book](http://www.deeplearningbook.org/),  [Guide to DL by YN](http://yerevann.com/a-guide-to-deep-learning/) - includes Linear Algebra, Probability, Scipy, ML, ...
 * [Mathematics of Machine Learning](https://www.linkedin.com/pulse/mathematics-machine-learning-trishul-sharma) - List of Math topics, required for ML.
 * Machine Learning Top 10 Articles for the Past Month - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.rc6ukipj8)
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - [Comments/Links to other resources](https://news.ycombinator.com/item?id=12898718)
@@ -179,11 +180,11 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Math Videos [Patrick JMT - Limits, Derivatives, Integration](https://www.youtube.com/user/patrickJMT/) [Just Match Tutorials](http://patrickjmt.com/), [Professor Leonard](https://www.youtube.com/user/professorleonard57)
 * [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [Better Explained](http://betterexplained.com/) Refresher on Mathematics
-* [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare, [2](https://www.math.hmc.edu/calculus/tutorials/)
+* [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare, [2](https://www.math.hmc.edu/calculus/tutorials/), [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf) - Silvanus Thompson
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#mathematics) includes texts on Linear Algebra, Statistics using Python
 * [Math without university](quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1) - Books, Courses, MOOCs, Course list
 * Math Texts [1](http://faculty.atu.edu/mfinan/nnotes.html), 
-* [The Mathematics of Machine Learning](https://www.r-bloggers.com/the-mathematics-of-machine-learning/)
+* [The Mathematics of Machine Learning](https://www.r-bloggers.com/the-mathematics-of-machine-learning/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/5klywi/d_which_aspects_of_probability_and_linear_algebra/)
  
 
 ##Tools##
