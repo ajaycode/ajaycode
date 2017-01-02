@@ -1,4 +1,4 @@
-# Interests
+﻿# Interests
 Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
@@ -34,8 +34,16 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
  
 ### Algorithms ###
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
-* [Visualization of algorithms](http://visualgo.net/)
+* [Visualization of algorithms](http://visualgo.net/), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
+* Quora: Algorithms and Data Structures Learning Resources - [1](https://www.quora.com/What-are-the-best-sites-available-on-the-internet-to-learn-dynamic-programming-algorithms-and-data-structures), [2](https://www.quora.com/Which-are-the-top-blogs-to-follow-to-explore-about-algorithms-and-data-structures)
+* [DsAlgo](http://www.dsalgo.com/2013/02/index.php.html), [daqwest](http://www.daqwest.com/)
+* Big O Notations [Stack Overflow](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation), [Big O Cheat Sheet](http://www.bigocheatsheet.com/)
+* Courses on Algorithms - [Videos](http://aduni.org/courses/algorithms/index.php?view=cw) - Course by Shai Simonsom, with videos, [MIT OCW Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/), [Udacity](https://classroom.udacity.com/courses/cs215/lessons/48747095/concepts/487024270923#)
+* Data Structures - [Yale CPSC 223](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Links to above books on DS and Algorithms on GitHub](https://github.com/haseebr/competitive-programming/tree/master/Materials)
+* [Google Hiring](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.ho8jeaxzn) [GitHub Resources](https://github.com/jwasham/google-interview-university)
+
 
 ###Languages & Frameworks ###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
@@ -43,6 +51,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ### Python ###
 * Language [Hackr.io](http://hackr.io/tutorials/python),[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
+* [Learn X in Y minutes](https://learnxinyminutes.com/) - Python, Go, JavaScript, C, C++, Java, ...
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), [Decorators in 12 Easy Steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * [List Comprehensions in Python](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [10 Common Mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make?utm_source=Engineering+Blog+Subscribers&utm_campaign=51aba2b5ff-Blog_Post_Email_Top10PythonMistakes&utm_medium=email&utm_term=0_af8c2cde60-51aba2b5ff-109835873)
@@ -50,16 +59,19 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Python Coding Reddit](https://www.reddit.com/r/pythoncoding)
 * [Text Classifier in Python](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
 * [Natural Language Processing with Python] (http://www.nltk.org/book/) - NLTK/Text Processing book
+* [Statistical Natural Language Processing in Python](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) - Peter Norvig's "How To Do Things With Words. And Counters." 
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) Also includes samples for seaborn, usage of powerpoint and excel files
 * Python Resources: [Awesome Python on GitHub](https://github.com/vinta/awesome-python), [PyCrumbs on GitHub](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md), [DuckDuckGo Cheatsheet](https://duckduckgo.com/?q=python+cheat+sheet&t=h&ia=cheatsheet&iax=1), [Quick Reference](http://www.dataschool.io/python-quick-reference/)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews)
 * [Why is Python slow](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 * [Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
+* [Understanding logging in Python](http://mussol.org/2016/12/15/understanding-logging-in-python/)
 
 ####Django ####
 * [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
 * [Deploy Django on DO](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean#/.V5bhr254HiQ.hackernews)
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131#.yo9bqr8c7) - [HN comments](https://news.ycombinator.com/item?id=5567239), [11 Killer Features I use in Every Django Project](https://medium.com/cs-math/2014-django-development-mistakes-in-2014-f48623f58b21#.y9gjrac6a) - talks about unit testing, updates to admin model, RESTful interfaces, ...
+* [Extend Django's built-in User model](https://thinkster.io/django-angularjs-tutorial#extending-django-s-built-in-user-model)
 
 ####Scientific Computing with Python ####
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
@@ -69,11 +81,14 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 
 ### D3###
+* [Data Visualization and D3.js](https://classroom.udacity.com/courses/ud507/lessons/3068848585/concepts/30952086940923)
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
 * [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) - [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
 * [One Chart, Twelve Charting Libraries](http://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
 * [Free Data Visualization Books](http://newprediction.com/free-data-visualization-books/)
 * [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript)
+* [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
+* [Bringing D3.JS to Jupyter Notebook with Py-D3 ](http://www.residentmar.io/2016/09/12/py-d3.html)
 
 ###Web Programming###
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
@@ -82,7 +97,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Online Courses ###
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
 * [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
-* [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) 
+* [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) [Video Lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#data-structures-and-algorithms)
+* [Programming books you might want to consider reading](http://danluu.com/programming-books/)
+* [MetAcademy](https://metacademy.org/browse) - Data Structures & Algorithms, Linear Algebra, Bayes, Set Theory, Probabily, AI, Multivariate Calculus, ...
 
 
 ### Online Textbooks
@@ -92,18 +109,24 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Probability Theory](http://bayes.wustl.edu/etj/prob/book.pdf) : The Logic of Science
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf) Data Mining, Inference and Prediction
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) Practical Data Mining, Collective Intelligence and Recommendation Systems by Ron Zacharski
+* [CNX Text Books](http://cnx.org/) - [Algebra & Trigonometry](http://cnx.org/contents/E6wQevFf@5.245:nU8Qkzwo@4/Introduction-to-Prerequisites), [Introductory Statistics](http://cnx.org/contents/MBiUQmmY@18.12:2T34_25K@11/Introduction), Pre Algebra, College Algebra, Pre calculus, Calculus, FFT, Physics, Economics, ...
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Book series on JavaScript
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
 * [STRATFOR](https://www.youtube.com/user/STRATFORvideo/videos)
 
 ### Machine Learning
-* [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q) Per Harald Borgen writes up his ML bootstrap experience
+* Machine Learning in a [Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q), [a year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d4wh3911s) Per Harald Borgen writes up his ML bootstrap experience, [Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [Introduction to Machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p) by Quentin de Laroussilhe
 * [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik)
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
-* [ML: An in-depth non technical guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/?utm_source=medium&utm_medium=post&utm_content=chapterlink&utm_campaign=republish)
+* [ML: An in-depth non technical guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/?utm_source=medium&utm_medium=post&utm_content=chapterlink&utm_campaign=republish), [Honest Guide to ML](https://medium.com/axiomzenteam/an-honest-guide-to-machine-learning-2f6d7a6df60e#.ndhjtwwno) - From Axiom Zen Team
 * [ML Sabbatical](http://karlrosaen.com/ml/) - Karl Rosaen
+* [Lessons learned while studying Machine Learning](http://mytechbooks.blogspot.in/2016/09/lessons-learned-while-studying-machine.html), [Programmers Can Get Into Machine Learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/)
+* [How to become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
+* [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+* [How to learn Machine Learning](https://medium.com/machine-intelligence-report/how-to-learn-machine-learning-6fa1c66bf039#.m5ke8j82i)
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
@@ -126,9 +149,18 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Boosting Sales With Machine Learning](https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3#.kf5y0auhu)
 * [Applying ML to InfoSec](http://conf.startup.ml/blog/infosec)
 * [Text: A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) - Hal Daume III, 2015 Edition
-* [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Deep Learning Book](http://www.deeplearningbook.org/),  [Guide to DL by YN](http://yerevann.com/a-guide-to-deep-learning/) - includes Linear Algebra, Probability, Scipy, ML, ...
+* [Mathematics of Machine Learning](https://www.linkedin.com/pulse/mathematics-machine-learning-trishul-sharma) - List of Math topics, required for ML.
+* Machine Learning Top 10 Articles for the Past Month - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.rc6ukipj8)
+* [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - [Comments/Links to other resources](https://news.ycombinator.com/item?id=12898718)
+* Classifiers [Reddit classifier](http://ioloop.io/blog/hoverpy-scikitlearn/), [Amazon Reviews](https://bigishdata.com/2016/12/05/classifying-amazon-reviews-with-scikit-learn-more-data-is-better-turns-out/)
 
-####TensorFlow###
+
+####Artificial Intelligence####
+* [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/cs221/)
+* [MIT: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+
+####TensorFlow####
 * [Tutorial for readers new to ML and TensorFlow](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html)
 * TensorFlow examples [Tutorials & examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples), [Udacity and other examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples), [Examples by Parag Mital](https://github.com/pkmital/tensorflow_tutorials)
 
@@ -145,13 +177,14 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ### Mathematics ###
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Cheat Sheets on Algebra, Trignonetry, Calculus, common derivates... - Hugely popular site
-* Math Videos [Patrick JMT - Limits, Derivatives, Integration](https://www.youtube.com/user/patrickJMT/) [Professor Leonard](https://www.youtube.com/user/professorleonard57)
+* Math Videos [Patrick JMT - Limits, Derivatives, Integration](https://www.youtube.com/user/patrickJMT/) [Just Match Tutorials](http://patrickjmt.com/), [Professor Leonard](https://www.youtube.com/user/professorleonard57)
 * [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [Better Explained](http://betterexplained.com/) Refresher on Mathematics
-* [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare, [2](https://www.math.hmc.edu/calculus/tutorials/)
+* [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare, [2](https://www.math.hmc.edu/calculus/tutorials/), [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf) - Silvanus Thompson
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#mathematics) includes texts on Linear Algebra, Statistics using Python
 * [Math without university](quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1) - Books, Courses, MOOCs, Course list
 * Math Texts [1](http://faculty.atu.edu/mfinan/nnotes.html), 
+* [The Mathematics of Machine Learning](https://www.r-bloggers.com/the-mathematics-of-machine-learning/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/5klywi/d_which_aspects_of_probability_and_linear_algebra/)
  
 
 ##Tools##
@@ -165,6 +198,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
 * [Libpostal](https://mapzen.com/blog/inside-libpostal)- a fast, multilingual, international street address parser 
 * [PROSE - Text Extraction & Transformation](https://microsoft.github.io/prose/documentation/extraction-text/intro/)
+
+###Statistics###
+* [YouTube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 
 ### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
@@ -186,6 +222,10 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
 * [Indian Mutual Fund Recommendations](https://www.fundsindia.com/select-funds)
 * [Sensex Rolling Performance](https://docs.google.com/spreadsheets/d/1AL5IR_wDCGLHv2uv4rH7J5LrOm4GzaSWRi4YYs7A7ak/edit?usp=sharing) - from yours truly
+* [Investing Returns on the S&P 500](https://github.com/zonination/investing) - Charts with returns, chances of losses 
+* [Investment Returns in Retirement - Simulator](http://www.cfiresim.com/)
+* [Is it time to buy?](https://saffell.wordpress.com/) - Is timing the market good for investments over a 10 year horizon? For a 20 year horizon?
+* [Stock Market Data Analysis with Python](http://blog.yhat.com/posts/stock-data-python.html)
 
 ###Business###
 * [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/) write-up by Matt Might.  Good advice for CS interns or recent majors
