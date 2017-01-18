@@ -31,6 +31,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Mini: Interpreter and language implemented in Python](https://github.com/keleshev/mini)
 * Compiler Construction Resources - [GitHub](https://github.com/melling/ComputerLanguages/blob/master/compilers.org), [Stack Overflow](http://stackoverflow.com/questions/1669/learning-to-write-a-compiler)
 * [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/) - Mattias Appelgren
+* [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html)
  
 ### Algorithms ###
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
