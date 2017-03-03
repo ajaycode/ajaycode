@@ -112,6 +112,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) Practical Data Mining, Collective Intelligence and Recommendation Systems by Ron Zacharski
 * [CNX Text Books](http://cnx.org/) - [Algebra & Trigonometry](http://cnx.org/contents/E6wQevFf@5.245:nU8Qkzwo@4/Introduction-to-Prerequisites), [Introductory Statistics](http://cnx.org/contents/MBiUQmmY@18.12:2T34_25K@11/Introduction), Pre Algebra, College Algebra, Pre calculus, Calculus, FFT, Physics, Economics, ...
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Book series on JavaScript
+* [Mining Massive Datasets](http://online.stanford.edu/course/mining-massive-datasets-self-paced?utm_source=iContact&utm_medium=email&utm_campaign=Stanford%20Online&utm_content=Final+copy+February+Course+Mailer+) - Stanford course and text
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
