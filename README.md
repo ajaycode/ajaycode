@@ -101,7 +101,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) [Video Lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#data-structures-and-algorithms)
 * [Programming books you might want to consider reading](http://danluu.com/programming-books/)
 * [MetAcademy](https://metacademy.org/browse) - Data Structures & Algorithms, Linear Algebra, Bayes, Set Theory, Probabily, AI, Multivariate Calculus, ...
-
+* [40+ Python Statistics For Data Science Resources](https://www.datacamp.com/community/tutorials/python-statistics-data-science#gs.YbcvdF8)
 
 ### Online Textbooks
 * [Programming Languages, Tools,  Algorithms, Compilers, ML, Math](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) - GitHub
