@@ -44,7 +44,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Data Structures - [Yale CPSC 223](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Links to above books on DS and Algorithms on GitHub](https://github.com/haseebr/competitive-programming/tree/master/Materials)
 * [Google Hiring](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.ho8jeaxzn) [GitHub Resources](https://github.com/jwasham/google-interview-university)
-
+* [Top 30 Data Structures Problems for Technical Interview Preparation](http://www.techiedelight.com/top-30-data-structures-problems-technical-interview-preparation/)
 
 ###Languages & Frameworks ###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
@@ -187,7 +187,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Math without university](quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1) - Books, Courses, MOOCs, Course list
 * Math Texts [1](http://faculty.atu.edu/mfinan/nnotes.html), 
 * [The Mathematics of Machine Learning](https://www.r-bloggers.com/the-mathematics-of-machine-learning/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/5klywi/d_which_aspects_of_probability_and_linear_algebra/)
- 
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - Online book with fully interactive figures
+* [YouTube: Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
 
 ##Tools##
 ### DevOps ###
@@ -203,6 +204,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ###Statistics###
 * [YouTube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
+* [YouTube : Statistics 110: Probability] - Joe Blitzstein, Professor of the Practice in Statistics, Harvard [Table of Contents](http://projects.iq.harvard.edu/stat110/youtube)
 
 ### Security###
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
