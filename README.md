@@ -43,8 +43,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Courses on Algorithms - [Videos](http://aduni.org/courses/algorithms/index.php?view=cw) - Course by Shai Simonsom, with videos, [MIT OCW Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/), [Udacity](https://classroom.udacity.com/courses/cs215/lessons/48747095/concepts/487024270923#)
 * Data Structures - [Yale CPSC 223](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Links to above books on DS and Algorithms on GitHub](https://github.com/haseebr/competitive-programming/tree/master/Materials)
-* [Google Hiring](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.ho8jeaxzn) [GitHub Resources](https://github.com/jwasham/google-interview-university)
-* [Top 30 Data Structures Problems for Technical Interview Preparation](http://www.techiedelight.com/top-30-data-structures-problems-technical-interview-preparation/)
+* [Google Hiring](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.ho8jeaxzn) [GitHub Resources](https://github.com/jwasham/google-interview-university) []
+* [Top 30 Data Structures Problems for Technical Interview Preparation](http://www.techiedelight.com/top-30-data-structures-problems-technical-interview-preparation/), Algorithmica [Syllabus](http://www.algorithmica.co.in/courses/top_20.html)
+* [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) 
 
 ###Languages & Frameworks ###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
@@ -230,6 +231,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Investment Returns in Retirement - Simulator](http://www.cfiresim.com/)
 * [Is it time to buy?](https://saffell.wordpress.com/) - Is timing the market good for investments over a 10 year horizon? For a 20 year horizon?
 * [Stock Market Data Analysis with Python](http://blog.yhat.com/posts/stock-data-python.html)
+* Robo Advisors [India](http://www.livemint.com/Money/MGNQT2wi0XEza7v93ykLwM/Roboadvisory-which-one-is-for-you.html), [MoneyFront - Invest in direct plans](https://www.moneyfront.in/)
+* Taxes - [ET: Look beyond 80C](http://economictimes.indiatimes.com/wealth/tax/look-beyond-section-80c-have-you-missed-out-on-any-of-these-tax-breaks/articleshow/53226279.cms)
 
 ###Business###
 * [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/) write-up by Matt Might.  Good advice for CS interns or recent majors
@@ -237,6 +240,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
 * [SaaS Metrics 2.0](http://www.forentrepreneurs.com/saas-metrics-2/#Defining_a_Dashboard_for_a_SaaS_Company) – A Guide to Measuring and Improving what Matters 
 * [156 Startup Failure Post-Mortems](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
+* [FounderKit: Everything you need to build/grow your startup](https://founderkit.com/) - Reviews of various services
+* Indian Startups [2017](http://trak.in/india-startup-funding-investment-2015/)
 
 ###Life###
 * [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
