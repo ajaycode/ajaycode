@@ -46,6 +46,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Google Hiring](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.ho8jeaxzn) [GitHub Resources](https://github.com/jwasham/google-interview-university) []
 * [Top 30 Data Structures Problems for Technical Interview Preparation](http://www.techiedelight.com/top-30-data-structures-problems-technical-interview-preparation/), Algorithmica [Syllabus](http://www.algorithmica.co.in/courses/top_20.html)
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) 
+* [350+ Problems - Algorithms and Data Structures](http://madhualgo.blogspot.in/2017/01/350-problems.html)
 
 ###Languages & Frameworks ###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
