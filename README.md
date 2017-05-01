@@ -46,7 +46,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Google Hiring](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.ho8jeaxzn) [GitHub Resources](https://github.com/jwasham/google-interview-university) []
 * [Top 30 Data Structures Problems for Technical Interview Preparation](http://www.techiedelight.com/top-30-data-structures-problems-technical-interview-preparation/), Algorithmica [Syllabus](http://www.algorithmica.co.in/courses/top_20.html)
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) 
-* [350+ Problems - Algorithms and Data Structures](http://madhualgo.blogspot.in/2017/01/350-problems.html)
+* [350+ Problems - Algorithms and Data Structures](http://madhualgo.blogspot.in/2017/01/350-problems.html), [500 Data Structures & Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
 
 ###Languages & Frameworks ###
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
@@ -115,6 +115,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [CNX Text Books](http://cnx.org/) - [Algebra & Trigonometry](http://cnx.org/contents/E6wQevFf@5.245:nU8Qkzwo@4/Introduction-to-Prerequisites), [Introductory Statistics](http://cnx.org/contents/MBiUQmmY@18.12:2T34_25K@11/Introduction), Pre Algebra, College Algebra, Pre calculus, Calculus, FFT, Physics, Economics, ...
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Book series on JavaScript
 * [Mining Massive Datasets](http://online.stanford.edu/course/mining-massive-datasets-self-paced?utm_source=iContact&utm_medium=email&utm_campaign=Stanford%20Online&utm_content=Final+copy+February+Course+Mailer+) - Stanford course and text
+* [How to Learn Math & Physics](http://math.ucr.edu/home/baez/books.html#ODEs) - Links to free books for both subjects
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
