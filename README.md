@@ -192,6 +192,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [The Mathematics of Machine Learning](https://www.r-bloggers.com/the-mathematics-of-machine-learning/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/5klywi/d_which_aspects_of_probability_and_linear_algebra/)
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - Online book with fully interactive figures
 * [YouTube: Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
+* [Approved Textbooks](http://aimath.org/textbooks/approved-textbooks/) by American Institute of Mathematics - for Precalculus, Calculus, Linear Algebra, Probability, Statistics and more ...
 
 ##Tools##
 ### DevOps ###
