@@ -188,11 +188,12 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Calculus](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang, MIT Open CourseWare, [2](https://www.math.hmc.edu/calculus/tutorials/), [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf) - Silvanus Thompson
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#mathematics) includes texts on Linear Algebra, Statistics using Python
 * [Math without university](quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1) - Books, Courses, MOOCs, Course list
-* Math Texts [1](http://faculty.atu.edu/mfinan/nnotes.html), 
+* Math Texts [1](http://faculty.atu.edu/mfinan/nnotes.html), [2](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [The Mathematics of Machine Learning](https://www.r-bloggers.com/the-mathematics-of-machine-learning/), [Reddit](https://www.reddit.com/r/MachineLearning/comments/5klywi/d_which_aspects_of_probability_and_linear_algebra/)
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - Online book with fully interactive figures
 * [YouTube: Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
 * [Approved Textbooks](http://aimath.org/textbooks/approved-textbooks/) by American Institute of Mathematics - for Precalculus, Calculus, Linear Algebra, Probability, Statistics and more ...
+* [Math for finance - Probability, Linear Algebra, ...](https://www.softcover.io/read/bf34ea25/math_for_finance/frontmatter), [Reddit Recommendations](https://www.reddit.com/r/learnmath/comments/5nk3ze/could_somebody_please_give_me_an_ordered_list_of/dcc8d1m/),
 
 ##Tools##
 ### DevOps ###
@@ -248,3 +249,4 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ###Life###
 * [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
+* [Dharma](https://balajiviswanathan.quora.com/Dancing-with-Dharma-Quora-book-on-Hinduism)
