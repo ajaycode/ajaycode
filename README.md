@@ -131,7 +131,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Lessons learned while studying Machine Learning](http://mytechbooks.blogspot.in/2016/09/lessons-learned-while-studying-machine.html), [Programmers Can Get Into Machine Learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/)
 * [How to become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-* [How to learn Machine Learning](https://medium.com/machine-intelligence-report/how-to-learn-machine-learning-6fa1c66bf039#.m5ke8j82i)
+* [How to learn Machine Learning](https://medium.com/machine-intelligence-report/how-to-learn-machine-learning-6fa1c66bf039#.m5ke8j82i), [150 of the best ML,NLP, Python tutorials](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 * [AWS ML Videos](https://cloudacademy.com/amazon-web-services/courses/amazon-machine-learning/)
 * [Data Quest](https://www.dataquest.io/blog/how-to-actually-learn-data-science/) - How to learn Data Science?
 * [Machine Learning iPython Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
@@ -231,7 +231,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
 * [Indian Mutual Fund Recommendations](https://www.fundsindia.com/select-funds)
 * [Sensex Rolling Performance](https://docs.google.com/spreadsheets/d/1AL5IR_wDCGLHv2uv4rH7J5LrOm4GzaSWRi4YYs7A7ak/edit?usp=sharing) - from yours truly
-* [Investing Returns on the S&P 500](https://github.com/zonination/investing) - Charts with returns, chances of losses 
+* S & P - [Investing Returns on the S&P 500](https://github.com/zonination/investing) - Charts with returns, chances of losses [Historical Return Calculator](https://dqydj.com/sp-500-historical-return-calculator/)
 * [Investment Returns in Retirement - Simulator](http://www.cfiresim.com/)
 * [Is it time to buy?](https://saffell.wordpress.com/) - Is timing the market good for investments over a 10 year horizon? For a 20 year horizon?
 * [Stock Market Data Analysis with Python](http://blog.yhat.com/posts/stock-data-python.html)
