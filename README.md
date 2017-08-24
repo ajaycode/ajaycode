@@ -75,6 +75,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Deploy Django on DO](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean#/.V5bhr254HiQ.hackernews)
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131#.yo9bqr8c7) - [HN comments](https://news.ycombinator.com/item?id=5567239), [11 Killer Features I use in Every Django Project](https://medium.com/cs-math/2014-django-development-mistakes-in-2014-f48623f58b21#.y9gjrac6a) - talks about unit testing, updates to admin model, RESTful interfaces, ...
 * [Extend Django's built-in User model](https://thinkster.io/django-angularjs-tutorial#extending-django-s-built-in-user-model)
+* [Top 10 mistakes that Django developers make](https://www.toptal.com/django/django-top-10-mistakes)
 
 ####Scientific Computing with Python ####
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
@@ -124,7 +125,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Machine Learning
 * Machine Learning in a [Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q), [a year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d4wh3911s) Per Harald Borgen writes up his ML bootstrap experience, [Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [Introduction to Machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p) by Quentin de Laroussilhe
-* [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik)
+* [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik), [ML for humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) with iPython and sci-kit
 * [ML: An in-depth non technical guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/?utm_source=medium&utm_medium=post&utm_content=chapterlink&utm_campaign=republish), [Honest Guide to ML](https://medium.com/axiomzenteam/an-honest-guide-to-machine-learning-2f6d7a6df60e#.ndhjtwwno) - From Axiom Zen Team
 * [ML Sabbatical](http://karlrosaen.com/ml/) - Karl Rosaen
@@ -246,6 +247,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [156 Startup Failure Post-Mortems](https://www.cbinsights.com/blog/startup-failure-post-mortem/)
 * [FounderKit: Everything you need to build/grow your startup](https://founderkit.com/) - Reviews of various services
 * Indian Startups [2017](http://trak.in/india-startup-funding-investment-2015/)
+* [Capital & Growth](https://capitalandgrowth.org/index.html?page=2&pageSize=10&sort=active) - Stack Overflow for marketing
 
 ###Life###
 * [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
