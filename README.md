@@ -102,7 +102,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Online Courses ###
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
 * [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
-* [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) [Video Lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#data-structures-and-algorithms)
+* [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) [Video Lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#data-structures-and-algorithms), [Open Source Society University](https://github.com/ossu/computer-science#core-theory) - GitHub links to CS resources
 * [Programming books you might want to consider reading](http://danluu.com/programming-books/)
 * [MetAcademy](https://metacademy.org/browse) - Data Structures & Algorithms, Linear Algebra, Bayes, Set Theory, Probabily, AI, Multivariate Calculus, ...
 * [40+ Python Statistics For Data Science Resources](https://www.datacamp.com/community/tutorials/python-statistics-data-science#gs.YbcvdF8)
@@ -118,6 +118,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Book series on JavaScript
 * [Mining Massive Datasets](http://online.stanford.edu/course/mining-massive-datasets-self-paced?utm_source=iContact&utm_medium=email&utm_campaign=Stanford%20Online&utm_content=Final+copy+February+Course+Mailer+) - Stanford course and text
 * [How to Learn Math & Physics](http://math.ucr.edu/home/baez/books.html#ODEs) - Links to free books for both subjects
+* [Economics](http://www.core-econ.org/the-economy/) - CORE e-book was produced by a large team of collaborators. More than twenty economists from both sides of the Atlantic and from India, Colombia, Chile, and Turkey contributed to it. 
 
 ### Talks
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector)
@@ -251,6 +252,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [FounderKit: Everything you need to build/grow your startup](https://founderkit.com/) - Reviews of various services
 * Indian Startups [2017](http://trak.in/india-startup-funding-investment-2015/)
 * [Capital & Growth](https://capitalandgrowth.org/index.html?page=2&pageSize=10&sort=active) - Stack Overflow for marketing
+* Product Pricing Surveys [Gabor-Granger](https://conjoint.online/2017/05/02/gabor-granger/?gclid=Cj0KCQjwruPNBRCKARIsAEYNXIgyVJTCxt6ZdAFI7HINo16WPexQF6rl7-jA1nHNUIMTW2DNZzQ_vwEaAgbYEALw_wcB), [Van Westendorp](https://www.qualtrics.com/support/research-resources/pricing-surveys/) ..., [Survey Template](https://www.zoho.com/survey/templates/marketing/pricing-survey.html)
 
 ###Life###
 * [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
