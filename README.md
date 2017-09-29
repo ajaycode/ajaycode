@@ -45,7 +45,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Links to above books on DS and Algorithms on GitHub](https://github.com/haseebr/competitive-programming/tree/master/Materials)
 * [Google Hiring](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.ho8jeaxzn),  [GitHub Resources](https://github.com/jwasham/google-interview-university), [The 30-minute guide to rocking your next coding interview](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b)
 * [Top 30 Data Structures Problems for Technical Interview Preparation](http://www.techiedelight.com/top-30-data-structures-problems-technical-interview-preparation/), Algorithmica [Syllabus](http://www.algorithmica.co.in/courses/top_20.html)
-* [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) 
+* [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) [Interview Experiences - by company](http://www.geeksforgeeks.org/company-interview-corner/)
 * [350+ Problems - Algorithms and Data Structures](http://madhualgo.blogspot.in/2017/01/350-problems.html), [500 Data Structures & Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
 
 
@@ -198,6 +198,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Approved Textbooks](http://aimath.org/textbooks/approved-textbooks/) by American Institute of Mathematics - for Precalculus, Calculus, Linear Algebra, Probability, Statistics and more ...
 * [Math for finance - Probability, Linear Algebra, ...](https://www.softcover.io/read/bf34ea25/math_for_finance/frontmatter), [Reddit Recommendations](https://www.reddit.com/r/learnmath/comments/5nk3ze/could_somebody_please_give_me_an_ordered_list_of/dcc8d1m/),
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman, F Thomas Leighton, Albert Meyer
+* Algebra [VITUTOR](http://www.vitutor.com/algeb.html) - polynomials, linear/quadratic equations, matrics, ...
+* [Trigonometry](http://www2.clarku.edu/~djoyce/trig/)
 
 ##Tools##
 ### DevOps ###
@@ -242,6 +244,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Robo Advisors [India](http://www.livemint.com/Money/MGNQT2wi0XEza7v93ykLwM/Roboadvisory-which-one-is-for-you.html), [MoneyFront - Invest in direct plans](https://www.moneyfront.in/)
 * Taxes - [ET: Look beyond 80C](http://economictimes.indiatimes.com/wealth/tax/look-beyond-section-80c-have-you-missed-out-on-any-of-these-tax-breaks/articleshow/53226279.cms)
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) - [Monte Carlo Simulation](https://www.portfoliovisualizer.com/) - Backtest, Factor, Asset Correlations, Portfolio Optimization, Timing Models
+* [ValuePickr](http://www.valuepickr.com/) - Individual stock portfolios for Indian market
 
 ###Business###
 * [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/) write-up by Matt Might.  Good advice for CS interns or recent majors
@@ -257,3 +260,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ###Life###
 * [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
 * [Dharma](https://balajiviswanathan.quora.com/Dancing-with-Dharma-Quora-book-on-Hinduism)
+
+###Physics###
+* [Physics Classroom](http://www.physicsclassroom.com/)
+* [Theoretical Minimum](http://theoreticalminimum.com/courses)
