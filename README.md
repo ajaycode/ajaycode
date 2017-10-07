@@ -34,6 +34,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html)
  
 ### Algorithms ###
+* [Comparisons of text books on algorithms](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/) - Sedgewick is not included in the comparison - however, it should be an easy read.
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
 * [Visualization of algorithms](http://visualgo.net/), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
