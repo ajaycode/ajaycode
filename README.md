@@ -71,6 +71,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Why is Python slow](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 * [Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
 * [Understanding logging in Python](http://mussol.org/2016/12/15/understanding-logging-in-python/)
+* [CS 109 Data Science](http://cs109.github.io/2015/pages/videos.html) Pandas, Scraping, Probability, Regression, ML, Clustering, Text using Python
 
 ####Django ####
 * [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
@@ -265,3 +266,6 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ###Physics###
 * [Physics Classroom](http://www.physicsclassroom.com/)
 * [Theoretical Minimum](http://theoreticalminimum.com/courses)
+
+###Management###
+* [Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
