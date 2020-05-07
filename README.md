@@ -3,7 +3,7 @@ Reference material
 
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
 
-##<a name="Networking">Networking</a>##
+## <a name="Networking">Networking</a>
 
 ###Software Defined Networking###
 * Intent Based Network Programming [NetKAT, Cornell](http://www.cs.cornell.edu/~kozen/papers/probnetkat.pdf),[Tierless Programming](https://cs.brown.edu/~sk/Publications/Papers/Published/nfsk-flowlog-tierless/paper.pdf), [Slick Control Plane - Jennifer Rexford](http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf), [SoftCell](https://www.cs.princeton.edu/~jrex/papers/softcell13.pdf), [StEERING](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6733615&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6718434%2F6733561%2F06733615.pdf%3Farnumber%3D6733615), [MeasuRouting](http://yuba.stanford.edu/~srini/publications.html), [Logic Programming: Princeton](https://www.cs.princeton.edu/~dpw/papers/xldi-2012.pdf), [FRESCO: Texas A & M](http://www.csl.sri.com/users/vinod/papers/fresco.pdf), [Kinetic](http://resonance.noise.gatech.edu/), [Network Intent Composition: Open Day Light](https://wiki.opendaylight.org/view/)
@@ -74,20 +74,27 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Understanding logging in Python](http://mussol.org/2016/12/15/understanding-logging-in-python/)
 * [CS 109 Data Science](http://cs109.github.io/2015/pages/videos.html) Pandas, Scraping, Probability, Regression, ML, Clustering, Text using Python
 
-####Django ####
+#### Django 
 * [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details), [ShowMeDo Videos](http://showmedo.com/videotutorials/django), Lanyrd [1](http://lanyrd.com/topics/django/video/),[2](http://lanyrd.com/search/?coverage=video&show=all&topics=django&type=session), [Tango with Django](http://www.tangowithdjango.com/)
 * [Deploy Django on DO](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean#/.V5bhr254HiQ.hackernews)
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131#.yo9bqr8c7) - [HN comments](https://news.ycombinator.com/item?id=5567239), [11 Killer Features I use in Every Django Project](https://medium.com/cs-math/2014-django-development-mistakes-in-2014-f48623f58b21#.y9gjrac6a) - talks about unit testing, updates to admin model, RESTful interfaces, ...
 * [Extend Django's built-in User model](https://thinkster.io/django-angularjs-tutorial#extending-django-s-built-in-user-model)
 * [Top 10 mistakes that Django developers make](https://www.toptal.com/django/django-top-10-mistakes)
 
-####Kotlin ####
+#### Scientific Computing with Python
+* [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
+* [Cheat sheet - Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf), [Cheatsheet - Data Analysis with Pandas](http://www.datasciencefree.com/pandas.pdf), [Cheatsheet - Python For Data Science](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3), [Cheatsheet: Plotting with Pandas series and DataFrames](https://www.enthought.com/wp-content/uploads/Enthought-Python-Pandas-Cheat-Sheets-1-8-v1.0.2.pdf), [Pandas notebook](https://github.com/minsuk-heo/pandas/blob/master/Pandas_Cheatsheet.ipynb) 
+* [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
+* [Introduction to Scientific Python](https://web.stanford.edu/~arbenson/cme193.html) - Stanford Course - Intro to Python, files, NumPy, Scipy, Pyplot
+
+### Kotlin 
 * [Kotlin: An Illustrated Guide](https://typealias.com/guides/)
 * [YouTube: Microservices with Spring Boot and Spring Cloud](https://www.youtube.com/channel/UCAieNgran7umupT_D50KaGw)
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin), [code on github](https://github.com/grpc/grpc-kotlin)
 * [Kotlin and Android Samples](https://kotlin-android.com/android-imagebutton-kotlin/)
 
-####EBPF ####
+### eBPF 
 * [A thorough introduction to eBPF](https://lwn.net/Articles/740157/)
 * [eBPF- Rethinking the Linux kernel](https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/preview?slide=id.g35f391192_00)
 * [Inside Kinvolk Labs: Investigating Kubernetes performance issues with BPF](https://kinvolk.io/blog/2020/04/inside-kinvolk-labs-investigating-kubernetes-performance-issues-with-bpf/)
@@ -96,15 +103,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 
 
-####Scientific Computing with Python ####
-* [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
-* [Cheat sheet - Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf), [Cheatsheet - Data Analysis with Pandas](http://www.datasciencefree.com/pandas.pdf), [Cheatsheet - Python For Data Science](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3), [Cheatsheet: Plotting with Pandas series and DataFrames](https://www.enthought.com/wp-content/uploads/Enthought-Python-Pandas-Cheat-Sheets-1-8-v1.0.2.pdf), [Pandas notebook](https://github.com/minsuk-heo/pandas/blob/master/Pandas_Cheatsheet.ipynb) 
-* [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
-* [Introduction to Scientific Python](https://web.stanford.edu/~arbenson/cme193.html) - Stanford Course - Intro to Python, files, NumPy, Scipy, Pyplot
 
-
-### D3###
+### D3
 * [Data Visualization and D3.js](https://classroom.udacity.com/courses/ud507/lessons/3068848585/concepts/30952086940923)
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
 * [Teaching a Semester of D3.js](http://blogger.ghostweather.com/2016/01/teaching-semester-of-d3js.html) - [Course Material](http://arnicas.github.io/interactive-vis-course/) - Lynn Cherny
@@ -114,11 +114,11 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
 * [Bringing D3.JS to Jupyter Notebook with Py-D3 ](http://www.residentmar.io/2016/09/12/py-d3.html)
 
-###Web Programming###
+### Web Programming
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
 
 ##<a name="Learning">Learning</a>##
-### Online Courses ###
+### Online Courses
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
 * [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
 * [Computer Science Courses at Universities](https://github.com/prakhar1989/awesome-courses) [Video Lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#data-structures-and-algorithms), [Open Source Society University](https://github.com/ossu/computer-science#core-theory) - GitHub links to CS resources
