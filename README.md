@@ -80,8 +80,24 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Extend Django's built-in User model](https://thinkster.io/django-angularjs-tutorial#extending-django-s-built-in-user-model)
 * [Top 10 mistakes that Django developers make](https://www.toptal.com/django/django-top-10-mistakes)
 
+####Kotlin ####
+* [Kotlin: An Illustrated Guide](https://typealias.com/guides/)
+* [YouTube: Microservices with Spring Boot and Spring Cloud](https://www.youtube.com/channel/UCAieNgran7umupT_D50KaGw)
+* [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin), [code on github](https://github.com/grpc/grpc-kotlin)
+* [Kotlin and Android Samples](https://kotlin-android.com/android-imagebutton-kotlin/)
+
+####EBPF ####
+* [A thorough introduction to eBPF](https://lwn.net/Articles/740157/)
+* [eBPF- Rethinking the Linux kernel](https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/preview?slide=id.g35f391192_00)
+* [Inside Kinvolk Labs: Investigating Kubernetes performance issues with BPF](https://kinvolk.io/blog/2020/04/inside-kinvolk-labs-investigating-kubernetes-performance-issues-with-bpf/)
+* [bpftrace: High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace) - [Video](https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/?utm_source=twitter&utm_medium=link&utm_campaign=helpcampaign)
+
+
+
+
 ####Scientific Computing with Python ####
 * [Pandas Tutorial](https://github.com/jreback/pydatanyc2015) from PyDataNYC 2015
+* [Cheat sheet - Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf), [Cheatsheet - Data Analysis with Pandas](http://www.datasciencefree.com/pandas.pdf), [Cheatsheet - Python For Data Science](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3), [Cheatsheet: Plotting with Pandas series and DataFrames](https://www.enthought.com/wp-content/uploads/Enthought-Python-Pandas-Cheat-Sheets-1-8-v1.0.2.pdf), [Pandas notebook](https://github.com/minsuk-heo/pandas/blob/master/Pandas_Cheatsheet.ipynb) 
 * [Baby steps in Python – Exploratory analysis in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/) Uses data set from Kaggle
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) - Tutorial on Python, NumPy, Matplotlib, Scipy, Scikit-learn...
 * [Introduction to Scientific Python](https://web.stanford.edu/~arbenson/cme193.html) - Stanford Course - Intro to Python, files, NumPy, Scipy, Pyplot
