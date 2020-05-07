@@ -34,7 +34,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/) - Mattias Appelgren
 * [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html)
  
-### Algorithms ###
+### Algorithms
 * [Comparisons of text books on algorithms](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/) - Sedgewick is not included in the comparison - however, it should be an easy read.
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
 * [Visualization of algorithms](http://visualgo.net/), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
@@ -51,11 +51,11 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [350+ Problems - Algorithms and Data Structures](http://madhualgo.blogspot.in/2017/01/350-problems.html), [500 Data Structures & Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
 
 
-###Languages & Frameworks
+### Languages & Frameworks
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
 * [Comparison of framework performance](https://www.techempower.com/benchmarks/) from TechEmpower
 
-### Python ###
+### Python
 * Language [Hackr.io](http://hackr.io/tutorials/python),[Welcome to Python for you & me](http://pymbook.readthedocs.org/en/latest/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Python, Go, JavaScript, C, C++, Java, ...
 * Decorators [Stack Over Flow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484), [Decorators in 12 Easy Steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
