@@ -5,15 +5,15 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ## <a name="Networking">Networking</a>
 
-###Software Defined Networking###
+### Software Defined Networking
 * Intent Based Network Programming [NetKAT, Cornell](http://www.cs.cornell.edu/~kozen/papers/probnetkat.pdf),[Tierless Programming](https://cs.brown.edu/~sk/Publications/Papers/Published/nfsk-flowlog-tierless/paper.pdf), [Slick Control Plane - Jennifer Rexford](http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf), [SoftCell](https://www.cs.princeton.edu/~jrex/papers/softcell13.pdf), [StEERING](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6733615&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6718434%2F6733561%2F06733615.pdf%3Farnumber%3D6733615), [MeasuRouting](http://yuba.stanford.edu/~srini/publications.html), [Logic Programming: Princeton](https://www.cs.princeton.edu/~dpw/papers/xldi-2012.pdf), [FRESCO: Texas A & M](http://www.csl.sri.com/users/vinod/papers/fresco.pdf), [Kinetic](http://resonance.noise.gatech.edu/), [Network Intent Composition: Open Day Light](https://wiki.opendaylight.org/view/)
 
-###Internet Outages###
+### Internet Outages
 * [The Outage Archives](https://puck.nether.net/pipermail/outages/)
 * [NANOG Mailing List](http://osdir.com/ml/North-American-Network-Operators-Group/)
 * [Routing Table Report](http://thyme.rand.apnic.net/) - BGP Routing Table Analysis
 
-##<a name="Programming">Programming</a>##
+## <a name="Programming">Programming</a>
 ### Source Control
 * [Git from the bottom up](http://jwiegley.github.io/git-from-the-bottom-up/)
 * [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -101,9 +101,6 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [bpftrace: High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace) - [Video](https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/?utm_source=twitter&utm_medium=link&utm_campaign=helpcampaign)
 
 
-
-
-
 ### D3
 * [Data Visualization and D3.js](https://classroom.udacity.com/courses/ud507/lessons/3068848585/concepts/30952086940923)
 * [Scott Murray](http://alignedleft.com/tutorials/d3/) [Comments](https://news.ycombinator.com/item?id=10831045)
@@ -117,7 +114,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Web Programming
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
 
-##<a name="Learning">Learning</a>##
+## <a name="Learning">Learning</a>
 ### Online Courses
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
 * [Coding the Matrix: Linear Algebra through Computer Science Applications](https://class.coursera.org/matrix-002/wiki/software-environment)
@@ -183,15 +180,15 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Classifiers [Reddit classifier](http://ioloop.io/blog/hoverpy-scikitlearn/), [Amazon Reviews](https://bigishdata.com/2016/12/05/classifying-amazon-reviews-with-scikit-learn-more-data-is-better-turns-out/)
 
 
-####Artificial Intelligence####
+#### Artificial Intelligence
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/cs221/)
 * [MIT: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 
-####TensorFlow####
+#### TensorFlow
 * [Tutorial for readers new to ML and TensorFlow](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html)
 * TensorFlow examples [Tutorials & examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples), [Udacity and other examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples), [Examples by Parag Mital](https://github.com/pkmital/tensorflow_tutorials)
 
-####Neural Networks####
+#### Neural Networks
 * [How I Learned To Code Neural Networks In 2015](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.renfysgw7) by Per Harald Borgen
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) Focuses on data extraction, cleaning and ML
 * [Introduction to Deep Neural Networks](http://deeplearning4j.org/neuralnet-overview.html)
@@ -202,7 +199,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Network Virtualization
 * [VMM Network Object Fundamentals](https://technet.microsoft.com/en-us/library/mt156974.aspx)
 
-### Mathematics ###
+### Mathematics 
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Cheat Sheets on Algebra, Trignonetry, Calculus, common derivates... - Hugely popular site
 * Math Videos [Patrick JMT - Limits, Derivatives, Integration](https://www.youtube.com/user/patrickJMT/) [Just Match Tutorials](http://patrickjmt.com/), [Professor Leonard](https://www.youtube.com/user/professorleonard57)
 * [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
@@ -220,31 +217,31 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Algebra [VITUTOR](http://www.vitutor.com/algeb.html) - polynomials, linear/quadratic equations, matrics, ...
 * [Trigonometry](http://www2.clarku.edu/~djoyce/trig/)
 
-##Tools##
-### DevOps ###
+## Tools
+### DevOps 
 * [400 Free resources for DevOps and Sys Admins](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins?edition=166475&utm_source=Spotlight&utm_medium=email&utm_campaign=DevOps%202016-05-06)
 
-###Low Cost Hosting###
+### Low Cost Hosting
 * [SSDNodes](https://www.ssdnodes.com/startup-specials/?s=reddit) - 4GM RAM, 4 CPU cores for $4/month
 
-###Big Data###
+### Big Data
 * [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
 * [Libpostal](https://mapzen.com/blog/inside-libpostal)- a fast, multilingual, international street address parser 
 * [PROSE - Text Extraction & Transformation](https://microsoft.github.io/prose/documentation/extraction-text/intro/)
 
-###Statistics###
+### Statistics
 * [YouTube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 * [YouTube : Statistics 110: Probability] - Joe Blitzstein, Professor of the Practice in Statistics, Harvard [Table of Contents](http://projects.iq.harvard.edu/stat110/youtube)
 
-### Security###
+### Security
 * [SSL Certificates](https://letsencrypt.org/) - LetsEncrypt - Certificate issuance and life cycle management
 * Web Server Security [Checklist](https://securitychecklist.org/), [SSL Server Test](https://www.ssllabs.com/ssltest/)
 * [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers) - [User Comments](https://news.ycombinator.com/item?id=12140477)
 
-###Transactional Email###
+### Transactional Email
 * [Free Transactional Email Service Providers](https://www.metachris.com/2016/03/free-transactional-email-services-the-best-alternatives-to-mandrill/)
 
-###Strategy, Trends, ...###
+### Strategy, Trends, ...
 * [Ben Evans](http://ben-evans.com/) Trends and analysis of Tech
 * [25iq](http://25iq.com) - Tren Griffin's blog on Markets, Tech etc. 
 * [Darren Rush](https://medium.com/@darrenrush)
@@ -252,7 +249,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [StraTechEry](https://stratechery.com/)
 * [Machine Learning Trends and the Future of Artificial Intelligence 2016](https://medium.com/emergent-future/machine-learning-trends-and-the-future-of-artificial-intelligence-2016-15c15cd6c129#.yidum6cn0)
 
-###Investment###
+### Investment
 * [Fund Picker](http://fundpicker.thefundoo.com/Pick) Mutual Funds in India
 * [Indian Mutual Fund Recommendations](https://www.fundsindia.com/select-funds)
 * [Sensex Rolling Performance](https://docs.google.com/spreadsheets/d/1AL5IR_wDCGLHv2uv4rH7J5LrOm4GzaSWRi4YYs7A7ak/edit?usp=sharing) - from yours truly
@@ -265,7 +262,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) - [Monte Carlo Simulation](https://www.portfoliovisualizer.com/) - Backtest, Factor, Asset Correlations, Portfolio Optimization, Timing Models
 * [ValuePickr](http://www.valuepickr.com/) - Individual stock portfolios for Indian market
 
-###Business###
+### Business
 * [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/) write-up by Matt Might.  Good advice for CS interns or recent majors
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 * [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
@@ -276,13 +273,13 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Capital & Growth](https://capitalandgrowth.org/index.html?page=2&pageSize=10&sort=active) - Stack Overflow for marketing
 * Product Pricing Surveys [Gabor-Granger](https://conjoint.online/2017/05/02/gabor-granger/?gclid=Cj0KCQjwruPNBRCKARIsAEYNXIgyVJTCxt6ZdAFI7HINo16WPexQF6rl7-jA1nHNUIMTW2DNZzQ_vwEaAgbYEALw_wcB), [Van Westendorp](https://www.qualtrics.com/support/research-resources/pricing-surveys/) ..., [Survey Template](https://www.zoho.com/survey/templates/marketing/pricing-survey.html)
 
-###Life###
+### Life
 * [Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html): Your Dietary Dos and Don't - NY Times
 * [Dharma](https://balajiviswanathan.quora.com/Dancing-with-Dharma-Quora-book-on-Hinduism)
 
-###Physics###
+### Physics
 * [Physics Classroom](http://www.physicsclassroom.com/)
 * [Theoretical Minimum](http://theoreticalminimum.com/courses)
 
-###Management###
+### Management
 * [Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
