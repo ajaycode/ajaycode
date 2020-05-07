@@ -4,6 +4,7 @@ Reference material
 Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Learning)
 
 ##<a name="Networking">Networking</a>##
+
 ###Software Defined Networking###
 * Intent Based Network Programming [NetKAT, Cornell](http://www.cs.cornell.edu/~kozen/papers/probnetkat.pdf),[Tierless Programming](https://cs.brown.edu/~sk/Publications/Papers/Published/nfsk-flowlog-tierless/paper.pdf), [Slick Control Plane - Jennifer Rexford](http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf), [SoftCell](https://www.cs.princeton.edu/~jrex/papers/softcell13.pdf), [StEERING](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6733615&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6718434%2F6733561%2F06733615.pdf%3Farnumber%3D6733615), [MeasuRouting](http://yuba.stanford.edu/~srini/publications.html), [Logic Programming: Princeton](https://www.cs.princeton.edu/~dpw/papers/xldi-2012.pdf), [FRESCO: Texas A & M](http://www.csl.sri.com/users/vinod/papers/fresco.pdf), [Kinetic](http://resonance.noise.gatech.edu/), [Network Intent Composition: Open Day Light](https://wiki.opendaylight.org/view/)
 
@@ -19,7 +20,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [My Git Notes](https://github.com/ajaycode/interests/blob/master/git_summary.md)
 * [Learn enough Git to be dangerous](http://www.learnenough.com/git-tutorial#sec-branching_and_merging)
 
-### Testing###
+### Testing
 * [Software Testing Wheel](https://dzone.com/articles/the-software-testing-wheel?utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=wd%202016-01-27)
 
 ### Compilers & Interpreters
@@ -50,7 +51,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [350+ Problems - Algorithms and Data Structures](http://madhualgo.blogspot.in/2017/01/350-problems.html), [500 Data Structures & Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
 
 
-###Languages & Frameworks ###
+###Languages & Frameworks
 * [Languages on GitHub](http://githut.info/) - Number of active repositories, push per repository etc...
 * [Comparison of framework performance](https://www.techempower.com/benchmarks/) from TechEmpower
 
