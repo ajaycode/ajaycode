@@ -90,9 +90,12 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ### Kotlin 
 * [Kotlin: An Illustrated Guide](https://typealias.com/guides/)
+* [Caster.io: Kotlin Videos](https://caster.io/courses/kotlin-programming-language)
 * [YouTube: Microservices with Spring Boot and Spring Cloud](https://www.youtube.com/channel/UCAieNgran7umupT_D50KaGw)
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin), [code on github](https://github.com/grpc/grpc-kotlin)
 * [Kotlin and Android Samples](https://kotlin-android.com/android-imagebutton-kotlin/)
+* [Developing Spring Boot applications with Kotlin](https://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin)
+* [Building web applications with Spring Boot and Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
 
 ### eBPF 
 * [A thorough introduction to eBPF](https://lwn.net/Articles/740157/)
