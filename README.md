@@ -11,9 +11,9 @@ I practice Program/Product Management by day and am an engineer, coder, architec
 
 **Engineer** : Backend (Spring, Kotlin, SQL, ...).   Previously (actually a very long time ago) worked on C, C++, PHP and Java
 
-**Engineer** : Frontend (Thymeleaf) and a smattering of JavaScript, JQuery
+**Engineer** : Frontend (Thymeleaf, Bootstrap, Material Design) and a smattering of JavaScript, JQuery
 
-**Engineer** : DevOps  (Configure, deploy, secure, load balance, optimize workloads)
+**Engineer** : DevOps  (Configure, deploy, secure, load balance, optimize workloads) across Azure, AWS and smaller clouds
 
 
 
@@ -21,7 +21,7 @@ I practice Program/Product Management by day and am an engineer, coder, architec
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.github.com/ajaycode/interests)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaygummadi)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajay_innovate)
-
+[![awards](https://badgen.net/badge/recognition/awards)](https://www.gummadi.net/ajay_interests)
 
 
 ## Other information
