@@ -8,8 +8,11 @@ I practice Program/Product Management by day and am an engineer, coder, architec
 
 ## 🛠 Skills
 **Program & Product Management** :  Launching a v1 product,  Innovating/refreshing existing product lines, Growing and running the business.
+
 **Engineer** : Backend (Spring, Kotlin, SQL, ...).   Previously (actually a very long time ago) worked on C, C++, PHP and Java
+
 **Engineer** : Frontend (Thymeleaf) and a smattering of JavaScript, JQuery
+
 **Engineer** : DevOps  (Configure, deploy, secure, load balance, optimize workloads)
 
 
