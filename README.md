@@ -23,12 +23,16 @@ I practice Program/Product Management by day and am an engineer, coder, architec
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajay_innovate)
 
 
+
 ## Other information
 👩‍💻 [Stuff, that I plan**ned** to read ...](https://github.com/ajaycode/interests/blob/master/interests.md)
 
 🧠 I'm currently learning...
 - History of currency
 - Graphics on the web
+
+Awards ...
+- [Check out the various awards](https://www.gummadi.net/ajay_interests)
 
 <!---
 👯‍♀️ I'm looking to collaborate on...
