@@ -27,13 +27,15 @@ I practice Program/Product Management by day and am an engineer, coder, architec
 
 ## Other information
 
-👩‍💻 [Stuff, that I plan**ned** to read ...](https://github.com/ajaycode/interests/blob/master/interests.md)
 
-🧠 I'm currently learning...
+🧠 I'm currently reading...
 - History of currency
 - Graphics on the web
 
-Awards ...
+👩‍💻 [Stuff, that I plan**ned** to read ...](https://github.com/ajaycode/interests/blob/master/interests.md)
+
+
+## Awards ...
 - [Check out the various awards](https://www.gummadi.net/ajay_interests)
 
 <!---
