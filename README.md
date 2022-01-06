@@ -20,6 +20,7 @@ I practice Program/Product Management by day and am an engineer, coder, architec
 ## 🔗 Links
 [![portfolio](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://www.github.com/ajaycode/interests)
 [![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/ajaygummadi)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg&color=blue" />][linkedin]
 [![twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/ajay_innovate)
 [![awards](https://commons.wikimedia.org/wiki/File:Trophy_Flat_Icon.svg)](https://www.gummadi.net/ajay_interests)
 
