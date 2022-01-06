@@ -18,10 +18,10 @@ I practice Program/Product Management by day and am an engineer, coder, architec
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.github.com/ajaycode/interests)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaygummadi)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajay_innovate)
-[![awards](https://badgen.net/badge/recognition/awards)](https://www.gummadi.net/ajay_interests)
+[![portfolio](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://www.github.com/ajaycode/interests)
+[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/ajaygummadi)
+[![twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/ajay_innovate)
+[![awards](https://commons.wikimedia.org/wiki/File:Trophy_Flat_Icon.svg)](https://www.gummadi.net/ajay_interests)
 
 
 ## Other information
