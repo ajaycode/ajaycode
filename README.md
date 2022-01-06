@@ -23,7 +23,7 @@ I practice Program/Product Management by day and am an engineer, coder, architec
 [<img align="left" alt="LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Awards" width="22px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/icons/award.svg" />][awards]
-[<img align="left" alt="Website" width="22px"  src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/icons/globe.svg" />][website]
+<br />
 
 ## Other information
 
