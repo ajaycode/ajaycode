@@ -35,6 +35,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Crafting Interpreters](http://www.craftinginterpreters.com/contents.html)
  
 ### Algorithms
+* [CS Fundamentals](https://github.com/antariksh17/Reddit-wiki-programming) - DSA, System Design links 
 * [Comparisons of text books on algorithms](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/) - Sedgewick is not included in the comparison - however, it should be an easy read.
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
 * [Visualization of algorithms](http://visualgo.net/), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
@@ -286,3 +287,4 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 
 ### Management
 * [Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+* [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
