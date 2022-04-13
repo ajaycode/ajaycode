@@ -232,7 +232,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [SSDNodes](https://www.ssdnodes.com/startup-specials/?s=reddit) - 4GM RAM, 4 CPU cores for $4/month
 
 ### Big Data
-* [Seven Free Data Wrangling Tools](http://blog.varonis.com/free-data-wrangling-tools/)
+* [Seven Free Data Wrangling Tools](https://www.varonis.com/blog/free-data-wrangling-tools)
 * [Libpostal](https://mapzen.com/blog/inside-libpostal)- a fast, multilingual, international street address parser 
 * [PROSE - Text Extraction & Transformation](https://microsoft.github.io/prose/documentation/extraction-text/intro/)
 
