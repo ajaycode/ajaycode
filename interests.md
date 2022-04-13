@@ -36,6 +36,9 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
  
 ### Algorithms
 * [CS Fundamentals](https://github.com/antariksh17/Reddit-wiki-programming) - DSA, System Design links 
+* [Neetcode.io](https://neetcode.io/) - Problems by data structure, with links to relevant videos
+* [Kotlin Algorithms Videos](https://kotlin.algorithmexamples.com/) 
+* [Kotlin Algorithm Club] (https://github.com/bmaslakov/kotlin-algorithm-club) - Code for various data structures and algorithms
 * [Comparisons of text books on algorithms](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/) - Sedgewick is not included in the comparison - however, it should be an easy read.
 * [Algorithms etc](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) - Jeff Erickson, UIUC
 * [Visualization of algorithms](http://visualgo.net/), [Visualization - UoSF](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
