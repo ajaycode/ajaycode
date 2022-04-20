@@ -65,8 +65,8 @@ And numerous others ...
 - 2005 (May 26) [Network Computing](https://github.com/ajaycode/ajaycode/blob/master/awards/Ajay_Network_Computing_NAS_Scorecard.gif)
 - Well Connected Award
 - 2005 (January 05) [InfoWorld Technology of the year](https://github.com/ajaycode/ajaycode/blob/master/awards/InfoWorld_RN_Technology_of_year_award.pdf)
-- 2004 (April 30) InfoWorld(https://github.com/ajaycode/ajaycode/blob/master/awards/InfoWorldApril2004Award.pdf)
-- 2004 (April 19) Network World Clear Choice Winner(https://github.com/ajaycode/ajaycode/blob/master/awards/Ajay_Network_World_2004_Apr_ClearChoice.pdf)
+- 2004 (April 30) [InfoWorld](https://github.com/ajaycode/ajaycode/blob/master/awards/InfoWorldApril2004Award.pdf)
+- 2004 (April 19) [Network World Clear Choice Winner](https://github.com/ajaycode/ajaycode/blob/master/awards/Ajay_Network_World_2004_Apr_ClearChoice.pdf)
 - 2004 (February) [WSA Finalist Most Promising New Technology](https://github.com/ajaycode/ajaycode/blob/master/awards/Ajay_WSA_2004_Most_Promising_New_Tech.JPG)
 - 2000/2001 Internet Telephony Best Of Show
 - Member,  LDP 
