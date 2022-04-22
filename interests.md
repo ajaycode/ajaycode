@@ -107,6 +107,10 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [Inside Kinvolk Labs: Investigating Kubernetes performance issues with BPF](https://kinvolk.io/blog/2020/04/inside-kinvolk-labs-investigating-kubernetes-performance-issues-with-bpf/)
 * [bpftrace: High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace) - [Video](https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/?utm_source=twitter&utm_medium=link&utm_campaign=helpcampaign)
 
+### Kernel
+* [Kernel Boot Process](https://0xax.gitbooks.io/linux-insides/content/Booting/)
+* [Writing a "bare metal" operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
+
 
 ### D3
 * [Data Visualization and D3.js](https://classroom.udacity.com/courses/ud507/lessons/3068848585/concepts/30952086940923)
