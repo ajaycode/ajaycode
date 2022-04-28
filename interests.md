@@ -125,6 +125,10 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 ### Web Programming
 * [Chrome DevTools – 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
 
+### Electronics
+* [Getting Started in Electronics](https://worldradiohistory.com/Archive-Company-Publications/Radio-Shack/Engineer's%20Mini-Notebook%20-%20Getting%20Started%20in%20Electronics.pdf) Handwritten notes by Forrest Mims III
+* [The Art Of Electronics](https://archive.org/details/art-of-electronics-3e/mode/2up) by Paul Horowitz, Winfield Hill
+
 ## <a name="Learning">Learning</a>
 ### Online Courses
 * [1150 Podcasts/Videos across many STEM and other subjects](http://www.openculture.com/freeonlinecourses)
