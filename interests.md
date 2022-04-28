@@ -276,6 +276,8 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * Taxes - [ET: Look beyond 80C](http://economictimes.indiatimes.com/wealth/tax/look-beyond-section-80c-have-you-missed-out-on-any-of-these-tax-breaks/articleshow/53226279.cms)
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) - [Monte Carlo Simulation](https://www.portfoliovisualizer.com/) - Backtest, Factor, Asset Correlations, Portfolio Optimization, Timing Models
 * [ValuePickr](http://www.valuepickr.com/) - Individual stock portfolios for Indian market
+* [ETF Stock Exposure Tool](https://etfdb.com/tool/etf-stock-exposure-tool/) - List of ETFs that have invested in a stock
+* [Cost of healthcare in early retirement](https://www.physicianonfire.com/cost-of-healthcare-in-early-retirement/?utm_source=twitter&utm_medium=social&utm_campaign=ReviveOldPost) from Physician on FIRE
 
 ### Business
 * [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/) write-up by Matt Might.  Good advice for CS interns or recent majors
