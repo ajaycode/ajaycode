@@ -156,6 +156,7 @@ Content: [Networking](#Networking), [Programming](#Programming),  [Learning](#Le
 * [STRATFOR](https://www.youtube.com/user/STRATFORvideo/videos)
 
 ### Machine Learning
+* ML with interactive notebooks (ML & Python via notebooks [Nuandwi](https://github.com/Nyandwi/machine_learning_complete) , Videos and notebooks from [Stanford, Cornell and UCB](https://github.com/Machine-Learning-Tokyo/AI_Curriculum?s=08#applied-machine-learning)
 * Machine Learning in a [Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.x5frasw0q), [a year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d4wh3911s) Per Harald Borgen writes up his ML bootstrap experience, [Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [Introduction to Machine Learning](https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.p) by Quentin de Laroussilhe
 * [ML is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.2j0xckpik), [ML for humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
